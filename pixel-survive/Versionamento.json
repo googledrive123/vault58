@@ -1,0 +1,25 @@
+{
+    "c2array": true,
+    "size": [
+        3,
+        1,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Data: July 7, 2025\nPatch notes 1.1.1.0\n\nNOVIDADES\n1- Novo sistema de upgrade universal para defesas: agora é universal e não é perdido ao desmontar!\n2- Atributos aprimorados:\n3- Força: +1% de defesa por ponto.\n4- Inteligência: +1% de XP por ponto.\n5- Progressão de nível: subir de nível concede 3 pontos de atributo, com a opção de resetar nível e atributos.\n6- 3 novos personagens jogáveis!\n7- Nova área: explore campos congelados com novos inimigos, animais e itens.\n8- Interface e enciclopédia atualizadas com tutorial adicionado.\n9- Mecânica de perda de itens: o jogador perde 20% dos itens se todos os personagens caírem.\n10- Retornar ao menu de seleção agora reseta a barra de XP de todos os personagens.\n\nCORREÇÕES E MELHORIAS\n\nInterface e áudio:\n1- corrigidos SFX de toque, visualização de fornalha/fogueira, opção \"desmontar\" da bigorna, iluminação da tocha, SFX de chuva e aumento do SFX de dano do Mago. BGM de Game Over e fases da lua corrigidas.\n\nMecânicas de jogo:\n1- torres e upgrades de ferramentas funcionando corretamente. Dano de chefes ajustado.\n2- Corrigidas falhas de HP zero, área de toque direcional e dano de projétil durante transições.\n3- Comida assada aparece instantaneamente.\n4- Adicionado \"x\" na porta da casa no modo invasão.\n\nPersonagens:\n1- Corrigidos os pixels de revelação do Mago de Gelo e do Ethan.\n\nVisuais:\n1- logo C3 removido, botão \"start\" maior, nomes de personagens no inventário, escuridão noturna reduzida e ícone do aplicativo otimizado.\n\nOtimização:\n1- Uso de memória otimizado e tela preta corrigida após longas sessões de jogo na área de gelo.\n\nAgradecemos o feedback contínuo da comunidade! Fiquem ligados para futuras atualizações!"
+            ]
+        ],
+        [
+            [
+                "Data: December 19, 2025\nPatch notes 1.1.1.1\n\nNOVIDADES\n1- Novo Vilarejo\n2- 9 NPCs novos adicionados\n4- NPCs compram e vendem itens.\n5- Adição de nova moeda chamada Verniz\n6- Adição de chance de dano crítico.\n7- Destreza aumenta 1% de acerto de dano crítico por ponto\n8- Inteligencia agora aumenta experiencia ganha em 2% por ponto\n9- Novos itens\n10- Adição de itens decorativos do evento de natal.\n11-Inimigos novos do evento de natal, podem ser encontrados na área da neve.\n\nCORREÇÕES E MELHORIAS\n\nAjustes:\n1- Balanceamento de recursos para construir estruturas.\n2- Nivel de Rank máximo agora é 50.\n3- Valor fixo para subir de Rank é de 150 moedas e 5 gemas, não aumenta mais a cada nível.\n4- Melhoria na habilidade de arremessar granada da Miranda.\n5- BP agora são Blueprints.\n\nBugs:\n1- Corrigido bug que impedia o jogador de construir outras torretas.\n1- Corrigido bug de inimigo slime de gelo ficar preso no canto do cenário.\n1- Corrigido bug da Miranda não conseguir atirar após perder level de munição.\n1- Corrigido bug de SFX dos penguins que estavam muito alto.\n\nVisuais:\n1- Melhoria de UX/UI\n2- Melhoria na interface de estatos de personagens.\n3- Adicionado informações de aumento de estatos a cada level"
+            ]
+        ],
+        [
+            [
+                "Data: May 6, 2026\nPatch notes 1.1.1.2\n\nNOVIDADES\n1- Remoção completa de Anúncios que atrapalham a gameplay\n2- Nova personagem. (Yuno a Amoladora)\n3- Companheiros ajudam em combate.\n4- Sistema de temperatura.\n4.1- Estatos de frio e calor.\n4.2- Estruturas com fogo podem aquecer os personagens\n4.3- A temperatura da área afeta os personagens.\n5- Adição de 5 andares abaixo da caverna.\n5.1- Ao quebrar uma rocha há uma pequena chance de encontrar um buraco para descer para o próximo andar.\n5.2- Cada andar abaixo aumenta as chances de encontrar minérios mais raros.\n5.3- Quanto mais profundo estiver na caverna profunda mais frio fica.\n7- Adição de Baú pequeno com 4 espaços.\n8- Adição de Baú grande com 24 espaços.\n9- Alimentos não recuperam HP mas regeneram HP com o tempo\n9- A barra de Habilidades carrega automaticamente com o tempo\n10- Adição de idiomas: Português de Portugal, Tailandês, Turco, Polonês e Vietnamita.\n\nCORREÇÕES E MELHORIAS\n\nAjustes:\n1- Rebalanceamento de vida e dano dos inimigos.\n\nBugs:\n1- Corrigido bug das balas das torretas não atingir os inimigos.\n\nVisual:\n1-Melhoria de UX/UI"
+            ]
+        ]
+    ]
+}

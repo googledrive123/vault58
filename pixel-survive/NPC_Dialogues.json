@@ -1,0 +1,6226 @@
+{
+    "c2array": true,
+    "size": [
+        84,
+        12,
+        4
+    ],
+    "data": [
+        [
+            [
+                "Hey, do you need anything? Are you lost?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Opa, precisa de alguma coisa? Tá perdido é?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡Oye, necesitas algo? ¿Estás perdido?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "おっ、何か必要ですか？迷子ですか？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "어, 뭐 필요한 거 있어요? 길 잃었어요?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "嘿，需要什么吗？迷路了吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "嘿，需要什麼嗎？迷路了嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hé, heb je iets nodig? Ben je verdwaald?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hey, brauchst du etwas? Bist du verloren?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ehi, hai bisogno di qualcosa? Ti sei perso?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hey, tu as besoin de quelque chose ? Tu es perdu ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Эй, тебе что-нибудь нужно? Ты потерялся?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "What's wrong? Are you lost? I can give you some tips.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Que foi? está perdido? Posso dar algumas dicas.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Qué pasa? ¿Estás perdido? Puedo darte algunos consejos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "どうしたの？迷子ですか？いくつかヒントをあげましょうか。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "왜요? 길 잃었어요? 몇 가지 팁을 드릴 수 있어요.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "怎么了？迷路了吗？我可以给你一些提示。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "怎麼了？迷路了嗎？我可以給你一些提示。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wat is er? Ben je verdwaald? Ik kan je wat tips geven.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Was ist los? Bist du verloren? Ich kann dir ein paar Tipps geben.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Che c'è? Ti sei perso? Posso darti qualche consiglio.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Qu'est-ce qu'il y a ? Tu es perdu ? Je peux te donner quelques conseils.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Что случилось? Ты потерялся? Я могу дать тебе несколько советов.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Do you need a tip?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tá precisando de alguma dica?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Necesitas algún consejo?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "何かヒントが必要ですか？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "뭐 팁이 필요해요?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "需要一些提示吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "需要一些提示嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Heb je een tip nodig?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Brauchst du einen Tipp?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hai bisogno di un consiglio?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu as besoin d'un conseil ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Тебе нужен совет?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I have some interesting information, I can share it.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tenho informações interessantes, posso compartilhar.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tengo información interesante, puedo compartirla.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "面白い情報があります、共有できますよ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "흥미로운 정보가 있어요, 공유할 수 있어요.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我有一些有趣的信息，可以分享。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我有一些有趣的資訊，可以分享。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik heb interessante informatie, ik kan het delen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich habe interessante Informationen, ich kann sie teilen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ho delle informazioni interessanti, posso condividerle.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "J'ai des informations intéressantes, je peux les partager.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "У меня есть интересная информация, я могу ею поделиться.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Did you come to visit me, or are you looking for information?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Veio me visitar ou tá querendo informação?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Viniste a visitarme o estás buscando información?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "訪ねてきたの？それとも情報が欲しいの？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "나를 보러 온 거야, 아니면 정보를 찾는 거야?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "是来拜访我的吗，还是想要点信息？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "是來拜訪我的嗎，還是想要點資訊？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ben je hier om me te bezoeken, of zoek je informatie?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Bist du mich besuchen gekommen, oder suchst du Informationen?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sei venuto a trovarmi o stai cercando informazioni?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu es venu me rendre visite ou tu cherches des informations ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ты пришел меня навестить или за информацией?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Do you need help with something?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Precisa de ajuda com algo?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Necesitas ayuda con algo?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "何か手伝いが必要ですか？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "뭔가 도움이 필요해요?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "需要帮忙吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "需要幫忙嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Heb je hulp nodig met iets?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Brauchst du Hilfe bei etwas?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hai bisogno di aiuto con qualcosa?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu as besoin d'aide pour quelque chose ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Тебе нужна помощь с чем-нибудь?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Once I met an old man named Poe Ratcho! He smelled like garlic!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Uma vez conheci um velho chamado Poe Ratcho! ele fedia a alho!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Una vez conocí a un viejo llamado Poe Ratcho! ¡Olía a ajo!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "昔、ポー・ラッチョという老人に会ったことがある！彼はニンニクの匂いがした！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "한 번은 포 래초라는 노인을 만났어! 그는 마늘 냄새가 났어!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我曾经遇到一个叫波·拉乔的老人！他身上有大蒜的味道！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我曾經遇到一個叫波·拉喬的老人！他身上有大蒜的味道！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Eens ontmoette ik een oude man genaamd Poe Ratcho! Hij stonk naar knoflook!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Einmal traf ich einen alten Mann namens Poe Ratcho! Er roch nach Knoblauch!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Una volta ho incontrato un vecchio di nome Poe Ratcho! Puzzava di aglio!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Une fois, j'ai rencontré un vieux homme nommé Poe Ratcho ! Il sentait l'ail !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Однажды я встретил старика по имени По Рачо! Он пах чесноком!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Don't kill the little cows, they give milk! But you need a jar to milk them.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Não mate as vaquinhas, elas dão leite! Mas você precisa de um frasco para ordenhá-las.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "No mates a las vacas, ¡ellas dan leche! Pero necesitas un frasco para ordeñarlas.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "小さな牛を殺さないで、牛乳をくれるから！でも、搾るためには瓶が必要だよ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "작은 소를 죽이지 마, 우유를 줘! 하지만 우유를 짜려면 병이 필요해.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "别杀小牛，它们会给你牛奶！不过你需要一个瓶子来挤奶。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "別殺小牛，它們會給你牛奶！不過你需要一個瓶子來擠奶。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dood de kleine koeien niet, ze geven melk! Maar je hebt een pot nodig om ze te melken.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Töte die kleinen Kühe nicht, sie geben Milch! Aber du brauchst ein Glas, um sie zu melken.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Non uccidere le piccole mucche, danno il latte! Ma hai bisogno di un vaso per mungerle.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ne tue pas les petites vaches, elles donnent du lait ! Mais tu as besoin d'un pot pour les traire.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Не убивай маленьких коров, они дают молоко! Но тебе нужен сосуд, чтобы их подоить.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "They've already complained to the king about him choosing beautiful women to join the order. What did they expect? Orcs in bikinis?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Já reclamaram com o rei por ele escolher mulheres bonitas para entrar na ordem. O que esperavam? Orcs de biquíni?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ya se han quejado al rey por elegir mujeres hermosas para unirse a la orden. ¿Qué esperaban? ¿Orcos en bikini?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "王が美しい女性ばかりを選んで騎士団に入れていると、もう苦情が出ているよ。何を期待してたんだ？ビキニ姿のオークか？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "벌써 왕에게 기사단에 예쁜 여자들만 뽑는다고 불평했대. 뭘 기대한 거야? 비키니 입은 오크?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "他们已经向国王抱怨他选择漂亮女人加入骑士团了。他们期望什么？穿比基尼的兽人吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "他們已經向國王抱怨他選擇漂亮女人加入騎士團了。他們期望什麼？穿比基尼的獸人嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ze hebben al bij de koning geklaagd dat hij mooie vrouwen kiest om lid te worden van de orde. Wat verwachtten ze dan? Orks in bikini?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sie haben sich bereits beim König beschwert, weil er schöne Frauen für den Orden auswählt. Was haben sie erwartet? Orks im Bikini?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Si sono già lamentati con il re perché sceglie belle donne per entrare nell'ordine. Cosa si aspettavano? Orchi in bikini?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ils se sont déjà plaints au roi qu'il choisissait de belles femmes pour rejoindre l'ordre. Qu'est-ce qu'ils espéraient ? Des orques en bikini ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Королю уже жаловались на то, что он выбирает красивых женщин для вступления в орден. А чего они ждали? Орков в бикини?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The knight and the archer became unemployed when the dev decided that controlling three characters was better than paying them a salary!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O cavaleiro e o arqueiro ficaram desempregados quando o dev decidiu que controlar três personagens era melhor do que pagar um salário para eles!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡El caballero y el arquero se quedaron sin trabajo cuando el dev decidió que controlar tres personajes era mejor que pagarles un salario!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "騎士と弓使いは、開発者が3人のキャラクターを操作する方が彼らに給料を払うよりも良いと決めたときに仕事を失ったんだ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "기사와 궁수는 개발자가 세 명의 캐릭터를 조종하는 것이 그들에게 급여를 주는 것보다 낫다고 결정했을 때 실직했어!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "骑士和弓箭手在开发者决定控制三个角色比给他们发工资更好时失业了！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "騎士和弓箭手在開發者決定控制三個角色比給他們發工資更好時失業了！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De ridder en de boogschutter werden werkloos toen de dev besloot dat het beter was om drie personages te besturen dan ze een salaris te betalen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Der Ritter und der Bogenschütze wurden arbeitslos, als der Entwickler entschied, dass es besser war, drei Charaktere zu steuern, als ihnen ein Gehalt zu zahlen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il cavaliere e l'arciere sono diventati disoccupati quando il dev ha deciso che controllare tre personaggi era meglio che pagarli uno stipendio!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le chevalier et l'archer sont devenus sans emploi lorsque le dev a décidé que contrôler trois personnages était mieux que de leur verser un salaire !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Рыцарь и лучник остались без работы, когда разработчик решил, что управлять тремя персонажами лучше, чем платить им зарплату!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Believe me, I already fished up a blue can with a 'J' on the hook. If I were lucky, it would have been a 'J' for 'jewel', but no... it was just a 'J' for 'Joja'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Acredite, já pesquei uma lata azul no anzol com um 'J' nela. Se eu tivesse sorte, seria um J de 'joia', mas não... era só 'J' de 'Joja'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Créeme, ya pesqué una lata azul con una 'J' en el anzuelo. Si tuviera suerte, sería una 'J' de 'joya', pero no... solo era una 'J' de 'Joja'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "信じて、青い缶を釣り上げたことがあるよ、その上に「J」が書かれていたんだ。もし運が良ければ「J」は「宝石」の「J」だっただろうけど、違うんだ…それはただの「J」で「ジョジャ」の「J」だった。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "믿어봐, 나는 이미 'J'가 적힌 파란 캔을 낚시줄에 걸어봤어. 운이 좋다면 'J'는 '보석'을 의미했겠지만, 아니야... 그건 그냥 'J'였어, '조자'의 'J'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "相信我，我曾在钩子上钓到过一个蓝色罐子，上面有个'J'。如果我运气好，那应该是'J'代表'珠宝'，但不...只是'J'代表'乔贾'。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "相信我，我曾經在鉤子上釣到過一個藍色罐子，上面有個'J'。如果我運氣好，那應該是'J'代表'珠寶'，但不是...只是'J'代表'乔贾'。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Geloof me, ik heb al een blauwe blik met een 'J' eraan opgevist. Als ik geluk had gehad, zou het een 'J' voor 'juweel' zijn, maar nee... het was gewoon een 'J' voor 'Joja'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Glaub mir, ich habe schon eine blaue Dose mit einem 'J' dran an den Haken bekommen. Wenn ich Glück gehabt hätte, wäre es ein 'J' für 'Juwel' gewesen, aber nein... es war nur ein 'J' für 'Joja'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Credimi, ho già pescato una lattina blu con una 'J' sopra. Se fossi stato fortunato, sarebbe stata una 'J' per 'gioiello', ma no... era solo una 'J' per 'Joja'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Crois-moi, j'ai déjà pêché une canette bleue avec un 'J' dessus. Si j'avais eu de la chance, ça aurait été un 'J' pour 'bijou', mais non... c'était juste un 'J' pour 'Joja'.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Поверь мне, я уже поймал синюю банку с 'J' на крючке. Если бы мне повезло, это был бы 'J' для 'драгоценности', но нет... это был просто 'J' для 'Джоджа'.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Eating restores HP! And if it's a fancy dish, it might even restore your dignity!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Comer recupera HP! E se for um prato sofisticado, pode até te devolver a dignidade!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡Comer recupera HP! Y si es un plato sofisticado, ¡incluso puede devolverte la dignidad!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "食べることでHPが回復します！そして、もしそれが高級料理なら、あなたの尊厳も取り戻せるかもしれません！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "음식은 HP를 회복시켜요! 그리고 만약 고급 요리라면, 당신의 존엄성까지 되찾을 수 있어요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "吃东西能恢复HP！如果是道精致的菜肴，甚至能恢复你的尊严！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "吃東西能恢復HP！如果是道精緻的菜餚，甚至能恢復你的尊嚴！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Eten herstelt HP! En als het een verfijnd gerecht is, kan het zelfs je waardigheid teruggeven!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Essen stellt HP wieder her! Und wenn es ein raffiniertes Gericht ist, kann es dir sogar deine Würde zurückgeben!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mangiare ripristina HP! E se è un piatto sofisticato, potrebbe persino restituirti la dignità!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Manger restaure des PV ! Et si c'est un plat sophistiqué, cela pourrait même te rendre ta dignité !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Еда восстанавливает HP! А если это изысканное блюдо, оно может даже вернуть тебе достоинство!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Can you believe that back in the day, it was impossible to build in the Russian version of the game? At that time, the dev didn't know how to program properly.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Acredita que antigamente era impossível construir na versão russa do jogo, naquela época o dev não sabia programar direito.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Puedes creer que en el pasado era imposible construir en la versión rusa del juego? En ese entonces, el dev no sabía programar bien.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "昔、ロシア版のゲームでは建物を建てることができなかったんだよ！その頃、開発者はプログラミングがうまくできなかったんだ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "예전에는 러시아 버전의 게임에서 건설하는 게 불가능했다고 믿어? 그 당시 개발자는 프로그래밍을 제대로 할 줄 몰랐어.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你能相信以前在游戏的俄文版里建造是不可能的吗？那时候开发者还不会正确编程。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你能相信以前在遊戲的俄文版裡建造是不可能的嗎？那時候開發者還不會正確編程。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Geloof je dat het vroeger onmogelijk was om te bouwen in de Russische versie van het spel? Toen wist de dev niet goed hoe hij moest programmeren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Kannst du dir vorstellen, dass es früher unmöglich war, in der russischen Version des Spiels zu bauen? Damals wusste der Entwickler nicht, wie man richtig programmiert.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Puoi credere che una volta fosse impossibile costruire nella versione russa del gioco? All'epoca, il dev non sapeva programmare correttamente.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu crois qu'autrefois, il était impossible de construire dans la version russe du jeu ? À l'époque, le dev ne savait pas bien programmer.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ты можешь поверить, что раньше было невозможно строить в русской версии игры? В то время разработчик не умел правильно программировать.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Chickens lay eggs that turn into chicks... if you have patience and an incubator, of course!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Galinhas botam ovos que viram pintinhos... se você tiver paciência e uma chocadeira, claro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Las gallinas ponen huevos que se convierten en pollitos... si tienes paciencia y una incubadora, ¡claro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "鶏は卵を産んで、それがひよこに変わります...もちろん、忍耐力と孵卵器があればね！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "닭은 알을 낳고 그것이 병아리로 변해요... 물론, 인내심과 부화기가 있다면요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "鸡会下蛋，蛋变成小鸡...当然，如果你有耐心和孵化器的话！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "雞會下蛋，蛋變成小雞...當然，如果你有耐心和孵化器的話！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Kippen leggen eieren die veranderen in kuikens... als je geduld hebt en een broedmachine, natuurlijk!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hühner legen Eier, die zu Küken werden... wenn du Geduld und einen Brutkasten hast, natürlich!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le galline depongono uova che diventano pulcini... se hai pazienza e un'incubatrice, ovviamente!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Les poules pondent des œufs qui se transforment en poussins... si tu as de la patience et une couveuse, bien sûr !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Куры несут яйца, которые превращаются в цыплят... если у тебя есть терпение и инкубатор, конечно!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Did you know you can make cheese with just milk and salt?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sabia que dá pra fazer queijo só com leite e sal?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Sabías que se puede hacer queso solo con leche y sal?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "牛乳と塩だけでチーズを作れるって知ってた？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "우유와 소금만으로 치즈를 만들 수 있다는 거 알고 있었어?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你知道只用牛奶和盐就能做奶酪吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你知道只用牛奶和鹽就能做起司嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wist je dat je kaas kunt maken met alleen melk en zout?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wusstest du, dass man Käse nur mit Milch und Salz machen kann?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sapevi che si può fare formaggio solo con latte e sale?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu savais qu'on pouvait faire du fromage avec seulement du lait et du sel ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Знал ли ты, что можно сделать сыр только из молока и соли?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Every upgrade you make to your structures will be permanent and valid for all of the same type.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Todo upgrade que você fizer nas suas estruturas será permanente e válida pra todas do mesmo tipo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Cada mejora que hagas a tus estructuras será permanente y válida para todas del mismo tipo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "建物に行ったアップグレードはすべて永続的で、同じ種類のすべての建物に有効です。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "건물에 적용한 모든 업그레이드는 영구적이며 동일한 유형의 모든 건물에 유효합니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你对你的建筑所做的每一次升级都将是永久性的，并且对所有同类型的建筑都有效。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你對你的建築所做的每一次升級都將是永久性的，並且對所有同類型的建築都有效。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Elke upgrade die je aan je structuren uitvoert, is permanent en geldig voor alle structuren van hetzelfde type.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Jedes Upgrade, das du an deinen Strukturen vornimmst, ist permanent und gilt für alle Strukturen des gleichen Typs.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ogni potenziamento che apporti alle tue strutture sarà permanente e valido per tutte quelle dello stesso tipo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Chaque amélioration que vous apportez à vos structures sera permanente et valable pour toutes celles du même type.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Каждое улучшение, которое вы делаете для своих построек, будет постоянным и действовать на все постройки того же типа.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Catch different fish? Just change regions!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pescar peixes diferentes? Só mudar de região!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Pescar peces diferentes? ¡Solo cambia de región!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "違う魚を釣りたい？地域を変えるだけだよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "다른 물고기를 낚고 싶어? 지역만 바꾸면 돼!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "钓不同的鱼？只需换个区域！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "釣不同的魚？只需換個區域！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Verschillende vissen vangen? Gewoon van regio veranderen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Andere Fische fangen? Einfach die Region wechseln!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pescare pesci diversi? Basta cambiare regione!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Attraper des poissons différents ? Il suffit de changer de région !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Поймать разных рыб? Просто смените регион!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Pigs? They are masters at finding truffles!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Porcos? Eles são mestres em encontrar trufas!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Cerdos? ¡Son unos maestros en encontrar trufas!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "豚？トリュフを見つける達人だよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "돼지? 트러플을 찾는 달인이야!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "猪？它们是找松露的高手！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "豬？它們是找松露的大師！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Varkens? Ze zijn meesters in het vinden van truffels!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Schweine? Sie sind Meister im Finden von Trüffeln!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Maiali? Sono maestri nel trovare tartufi!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Les cochons ? Ce sont des maîtres pour trouver des truffes !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Свиньи? Они мастера в поиске трюфелей!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Want to be smart? Just reset the invasion crystal after going through all the stages!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Quer ser esperto? Só resete o cristal de invasão depois de passar por todas as fases!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Quieres ser listo? ¡Solo reinicia el cristal de invasión después de pasar por todas las fases!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "賢くなりたい？すべてのステージをクリアした後に侵入クリスタルをリセットするだけだよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "영리해지고 싶어? 모든 단계를 거친 후에 침략 크리스탈을 리셋하면 돼!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想变聪明？只需要通过所有阶段后重置入侵水晶！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想變聰明？只需通過所有階段後重置入侵水晶！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Slim zijn? Reset gewoon de invasiecrystal nadat je alle fasen hebt doorlopen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Willst du schlau sein? Setze den Invasionskristall einfach zurück, nachdem du alle Phasen durchlaufen hast!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vuoi essere furbo? Basta resettare il cristallo dell'invasione dopo aver passato tutte le fasi!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu veux être malin ? Il suffit de réinitialiser le cristal d'invasion après avoir traversé toutes les étapes !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Хочешь быть умным? Просто сбрось кристалл вторжения после прохождения всех этапов!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "You thought sand only came from the beach? Try mining clay stones!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Achou que areia só vinha da praia? Tente minerar pedras de barro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Pensaste que la arena solo venía de la playa? ¡Intenta minar piedras de arcilla!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "砂はビーチからしか来ないと思った？粘土の石を掘ってみて！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "모래는 해변에서만 나온다고 생각했어? 점토 돌을 캐봐!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "以为沙子只来自海滩？试试挖掘黏土石头！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "以為沙子只來自海灘？試試挖掘黏土石頭！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dacht je dat zand alleen van het strand kwam? Probeer kleisteenen te delven!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dachtest du, Sand kommt nur vom Strand? Versuch mal, Tonsteine zu abbauen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pensavi che la sabbia venisse solo dalla spiaggia? Prova a scavare pietre di argilla!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu pensais que le sable venait seulement de la plage ? Essaie de miner des pierres d'argile !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Думал, песок только с пляжа? Попробуй добыть глиняные камни!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Eating something suspicious? Trust me, you don't want worms!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Comer algo suspeito? Vai por mim, você não quer vermes!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Comer algo sospechoso? Créeme, ¡no quieres gusanos!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "怪しいものを食べる？信じて、ワームは欲しくないでしょ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "수상한 음식을 먹을 거야? 내 말 믿어, 벌레는 원하지 않잖아!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "吃些可疑的东西？相信我，你不想要虫子！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "吃些可疑的東西？相信我，你不想要蟲子！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Iets verdachts eten? Geloof me, je wilt geen wormen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Etwas Verdächtiges essen? Vertrau mir, du willst keine Würmer!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mangiare qualcosa di sospetto? Fidati, non vuoi vermi!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Manger quelque chose de suspect ? Crois-moi, tu ne veux pas de vers !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Есть что-то подозрительное? Поверь мне, тебе не нужны черви!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Medicinal herbs in the thicket? Just look around and you'll find them quickly!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ervas medicinais no matagal? É só procurar que você encontra rapidinho!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Hierbas medicinales en el matorral? ¡Solo busca y las encontrarás rápido!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "茂みの中の薬草？探せばすぐに見つかるよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "잡초 속 약초? 그냥 찾으면 금방 찾을 수 있어!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "杂草丛中的药草？只要找找，你很快就能找到！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "雜草叢中的藥草？只要找找，很快就能找到！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Geneeskrachtige kruiden in de struiken? Zoek gewoon en je vindt ze snel!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Heilkräuter im Gestrüpp? Such einfach und du findest sie schnell!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Erbe medicinali nel cespuglio? Basta cercare e le troverai velocemente!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Des herbes médicinales dans le fourré ? Cherche simplement et tu les trouveras rapidement !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Лекарственные травы в кустах? Просто поищи, и ты быстро найдешь их!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Want to make gardens? Then look for animals, they poop a lot! You can use the manure to build them!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Quer fazer hortas? Então procure animais, eles cagam muito! dá pra usar a bosta para construí-las!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Quieres hacer huertos? ¡Entonces busca animales, ellos cagan mucho! ¡Puedes usar la mierda para construirlos!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "畑を作りたい？じゃあ動物を探してみて、彼らはよくうんこするよ！その糞を使って畑を作れるからね！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "밭을 만들고 싶어? 그럼 동물을 찾아봐, 그들은 많이 똥을 싸! 그 똥을 사용해서 밭을 만들 수 있어!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想做菜园吗？那就找动物，它们拉屎很厉害！你可以用屎来建菜园！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想做菜園嗎？那就找動物，它們拉屎很厲害！你可以用屎來建菜園！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wil je tuinen maken? Zoek dan naar dieren, ze poepen veel! Je kunt de poep gebruiken om ze te maken!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Möchtest du Gärten anlegen? Dann suche nach Tieren, sie kacken viel! Du kannst den Kot verwenden, um sie zu bauen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vuoi fare orti? Allora cerca gli animali, fanno molta cacca! Puoi usare lo sterco per costruirli!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu veux faire des jardins ? Alors cherche des animaux, ils font beaucoup de caca ! Tu peux utiliser la merde pour les construire !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Хочешь сделать огороды? Тогда ищи животных, они много какают! Можешь использовать навоз для их постройки!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Watering the plants speeds up growth, so don't forget to do it!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Regar as plantas acelera o crescimento, então não deixe de fazer isso!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Regar las plantas acelera el crecimiento, ¡así que no olvides hacerlo!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "植物に水をやると成長が早くなるので、忘れずにやってね！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "식물에 물을 주면 성장이 빨라져요, 그러니까 꼭 해보세요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "给植物浇水能加速生长，所以不要忘记做这件事！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "給植物澆水能加速生長，所以別忘了做這件事！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Planten water geven versnelt de groei, dus vergeet niet om het te doen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pflanzen gießen beschleunigt das Wachstum, also vergiss nicht, es zu tun!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Annaffiare le piante accelera la crescita, quindi non dimenticare di farlo!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Arroser les plantes accélère la croissance, alors n'oublie pas de le faire !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Полив растений ускоряет их рост, так что не забудь сделать это!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Want to make a drink in the fermenter? Prepare the sugar, you're going to need a lot!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Quer fazer uma bebida na fermentadora? Prepare o açúcar, vai precisar de um monte!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Quieres hacer una bebida en el fermentador? Prepara el azúcar, ¡vas a necesitar mucho!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "発酵機で飲み物を作りたい？砂糖を準備してね、たくさん必要だよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "발효기에 음료를 만들고 싶어? 설탕 준비해, 많이 필요해!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想在发酵器里做饮料吗？准备好糖，你会需要很多的！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想在發酵器裡做飲料嗎？準備好糖，你會需要很多的！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wil je een drankje in de fermentator maken? Bereid de suiker voor, je hebt veel nodig!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Möchtest du ein Getränk im Fermenter machen? Bereite den Zucker vor, du wirst viel brauchen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vuoi fare una bevanda nel fermentatore? Prepara lo zucchero, ti servirà un sacco!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu veux faire une boisson dans le fermenteur ? Prépare le sucre, tu vas en avoir besoin de beaucoup !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Хочешь сделать напиток в ферментаторе? Подготовь сахар, тебе нужно будет много!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Seriously, don't eat poop. It will only cause you problems!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sério, não coma bosta. Isso vai só te causar problemas!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "En serio, no comas mierda. ¡Solo te causará problemas!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "本当に、うんこを食べないでください。それはただ問題を引き起こすだけです！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "진짜로, 똥 먹지 마. 그거는 너한테 문제만 일으킬 거야!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "真的，不要吃屎。这样只会给你带来麻烦！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "真的，不要吃屎。這樣只會給你帶來麻煩！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Serieus, eet geen stront. Het zal je alleen maar problemen geven!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ernsthaft, iss keinen Dreck. Es wird dir nur Probleme bereiten!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sul serio, non mangiare merda. Ti causerà solo problemi!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sérieusement, ne mange pas de la merde. Ça ne te causera que des problèmes !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Серьезно, не ешь дерьмо. Это принесет тебе только проблемы!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Rainwater? Better boil it on the campfire before drinking, or it could be a problem!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Água da chuva? Melhor ferver na fogueira antes de beber, ou pode ser um problema!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Agua de lluvia? Mejor hervirla en la fogata antes de beberla, ¡o puede ser un problema!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "雨水？飲む前に焚き火で沸かした方がいいよ、さもないと問題になるかも！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "비가 온 물? 마시기 전에 캠프파이어에 끓여야 해, 아니면 문제가 될 수 있어!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "雨水？最好先在篝火上煮沸后再喝，不然可能会有问题！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "雨水？最好先在篝火上煮沸再喝，不然可能會有問題！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Regenwater? Beter het eerst op het kampvuur koken voordat je het drinkt, anders kan het een probleem zijn!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Regenwasser? Besser zuerst im Lagerfeuer abkochen, bevor du es trinkst, sonst könnte es ein Problem sein!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Acqua piovana? Meglio bollirla sul fuoco prima di berla, o potrebbe diventare un problema!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De l'eau de pluie ? Mieux vaut la faire bouillir sur le feu de camp avant de la boire, sinon cela pourrait poser problème !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Дождевая вода? Лучше вскипятить её на костре перед тем, как пить, или это может стать проблемой!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The Crimson Moon is coming... Better be prepared, Umbra-tainted monsters are very dangerous.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "A Lua Rubra tá chegando... Melhor estar preparado, Monstros contaminados pela Umbra são muito perigosos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La Luna Rubra está llegando... Mejor estar preparado, los monstruos contaminados por la Umbra son muy peligrosos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "紅い月が近づいている… 備えておいた方がいい。ウンブラに汚染されたモンスターは非常に危険だ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "붉은 달이 다가온다... 준비하는 게 좋을 거야. 움브라에 오염된 몬스터는 매우 위험해.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "赤月要来了……最好做好准备，被幽影污染的怪物非常危险。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "赤月要來了……最好做好準備，被幽影污染的怪物非常危險。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De Rode Maan komt eraan... Je kunt maar beter voorbereid zijn, Umbra-besmette monsters zijn erg gevaarlijk.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Der Rote Mond kommt... Besser sei vorbereitet, Umbra-verseuchte Monster sind sehr gefährlich.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La Luna Rossa sta arrivando... Meglio essere preparati, i mostri contaminati dall'Umbra sono molto pericolosi.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La Lune Rouge arrive... Mieux vaut être préparé, les monstres contaminés par l'Umbra sont très dangereux.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Красная Луна приближается... Лучше быть готовым, монстры, зараженные Умброй, очень опасны.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Seriously, they didn't compare this game to Terraria, did they? Terraria is practically on another level!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sério, não compararam esse jogo com Terraria, né? Terraria é praticamente outro nível!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿En serio, no compararon este juego con Terraria, verdad? ¡Terraria está prácticamente en otro nivel!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "まさか、このゲームをテラリアと比べたわけじゃないよね？テラリアはほぼ別のレベルだよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "진짜, 이 게임을 테라리아와 비교한 거 아니죠? 테라리아는 거의 다른 차원의 게임이에요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "真的没把这个游戏跟 Terraria 比较吧？Terraria 简直是另一个级别的游戏！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "真的沒把這個遊戲跟 Terraria 比較吧？Terraria 幾乎是另一個層級的遊戲！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Serieus, ze hebben dit spel toch niet met Terraria vergeleken? Terraria is praktisch een ander niveau!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ehrlich, sie haben dieses Spiel doch nicht mit Terraria verglichen, oder? Terraria ist praktisch auf einem anderen Level!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sul serio, non hanno paragonato questo gioco a Terraria, vero? Terraria è praticamente un altro livello!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sérieusement, ils n'ont pas comparé ce jeu à Terraria, si ? Terraria est pratiquement un autre niveau !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Серьезно, они не сравнили эту игру с Terraria, правда? Terraria — это практически другой уровень!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Returning to the selection screen recovers all of your characters' HP, but makes you lose all acquired experience!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Voltar para a tela de seleção recupera todo o HP dos seus personagens, mas faz você perder toda a experiência adquirida!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Volver a la pantalla de selección recupera toda la HP de tus personajes, ¡pero te hace perder toda la experiencia adquirida!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "選択画面に戻ると、キャラクターのHPは全回復しますが、獲得した経験値はすべて失われます！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "선택 화면으로 돌아가면 모든 캐릭터의 HP가 회복되지만, 획득한 모든 경험치를 잃게 됩니다!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "返回选择界面会恢复你所有角色的生命值，但是会让你失去所有已获得的经验！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "返回選擇介面會恢復你所有角色的生命值，但是會讓你失去所有已獲得的經驗！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Terugkeren naar het selectiescherm herstelt alle HP van je personages, maar zorgt ervoor dat je alle opgedane ervaring verliest!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Zurückkehren zum Auswahlbildschirm stellt die gesamten HP deiner Charaktere wieder her, aber lässt dich die gesamte erworbene Erfahrung verlieren!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tornare alla schermata di selezione ripristina tutti i PV dei tuoi personaggi, ma ti fa perdere tutta l'esperienza acquisita!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Retourner à l'écran de sélection restaure tous les PV de vos personnages, mais vous fait perdre toute l'expérience acquise !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Возвращение на экран выбора восстанавливает все HP ваших персонажей, но заставляет вас потерять весь полученный опыт!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Once I put sand in the furnace, and it resulted in glass plates!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Uma vez coloquei areia na fornalha e resultou em placas de vidro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Una vez puse arena en el horno y resultó en placas de vidrio!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "一度炉に砂を入れたら、ガラスの板ができました！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "한 번은 용광로에 모래를 넣었더니 유리판이 나왔어요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "有一次我把沙子放进炉子里，结果得到了玻璃板！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "有一次我把沙子放進爐子裡，結果得到玻璃板！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Een keer deed ik zand in de oven, en het resulteerde in glazen platen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Einmal habe ich Sand in den Ofen gelegt, und es resultierte in Glasplatten!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Una volta misi sabbia nella fornace e il risultato furono lastre di vetro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Une fois, j'ai mis du sable dans le four, et cela a donné des plaques de verre !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Однажды я положил песок в печь, и это привело к получению стеклянных плит!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The well is super useful! You can drink the water straight from the bucket or store it in the glass jar!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O poço é super útil! Você pode beber a água direto do balde ou armazenar no frasco de vidro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡El pozo es súper útil! Puedes beber el agua directamente del cubo o almacenarla en el frasco de vidrio!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "井戸はとても便利です！バケツから直接水を飲むことも、ガラスの瓶に保存することもできます！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "우물은 정말 유용해요! 물을 바로 양동이에서 마시거나 유리병에 저장할 수 있어요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "井很有用！你可以直接从水桶里喝水，或者把水储存在玻璃瓶里！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "井很有用！你可以直接從水桶裡喝水，或者把水儲存在玻璃瓶裡！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De put is super handig! Je kunt het water rechtstreeks uit de emmer drinken of het in het glazen potje opslaan!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Der Brunnen ist super nützlich! Du kannst das Wasser direkt aus dem Eimer trinken oder es im Glasbehälter aufbewahren!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il pozzo è super utile! Puoi bere l'acqua direttamente dal secchio o conservarla nel barattolo di vetro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le puits est super utile ! Vous pouvez boire l'eau directement du seau ou la stocker dans le pot en verre !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Колодец очень полезен! Вы можете пить воду прямо из ведра или хранить её в стеклянной банке!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The bosses are incredibly strong, you need to be prepared to face them!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Os chefes são incrivelmente fortes, você precisa estar preparado para enfrentá-los!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡Los jefes son increíblemente fuertes, necesitas estar preparado para enfrentarlos!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ボスは信じられないほど強いので、戦う準備をしっかりしておかないと！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "보스는 믿을 수 없을 만큼 강하니, 그들을 상대할 준비를 해야 해!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "老板们非常强大，你需要做好准备来面对他们！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "BOSS們非常強大，你需要做好準備來面對他們！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De bazen zijn ongelooflijk sterk, je moet voorbereid zijn om ze te confronteren!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Bosse sind unglaublich stark, du musst vorbereitet sein, um ihnen zu begegnen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "I boss sono incredibilmente forti, devi essere preparato per affrontarli!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Les boss sont incroyablement forts, tu dois être préparé à les affronter !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Боссы невероятно сильны, тебе нужно быть готовым к их встрече!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "If you are defeated in battle, I can even rescue you, but my commission is 20% of your items.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Se vocês forem derrotados em batalha, eu até consigo resgata-los, mas minha comissão é de 20% dos seus itens.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Si sois derrotados en batalla, incluso puedo rescataros, pero mi comisión es del 20% de vuestros objetos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "もしあなたが戦闘で敗北した場合でも、私はあなたを救出することができますが、私の手数料はあなたのアイテムの20％です。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "만약 당신들이 전투에서 패배하더라도, 내가 당신들을 구출해 줄 수도 있지만, 내 수수료는 당신들 아이템의 20%입니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "如果你们在战斗中被打败，我甚至可以营救你们，但我的佣金是你们物品的20%。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "如果你們在戰鬥中被打敗，我甚至可以營救你們，但我的佣金是你們物品的20%。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Als jullie verslagen worden in de strijd, kan ik jullie zelfs redden, maar mijn commissie is 20% van jullie items.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wenn ihr im Kampf besiegt werdet, kann ich euch sogar retten, aber meine Provision beträgt 20% eurer Gegenstände.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Se sarete sconfitti in battaglia, posso persino salvarvi, ma la mia commissione è il 20% dei vostri oggetti.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Si vous êtes vaincus au combat, je peux même vous secourir, mais ma commission est de 20% de vos objets.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Если вы потерпите поражение в бою, я даже смогу вас спасти, но моя комиссия составит 20% ваших предметов.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "\"It wouldn't be fun if it were easy.\" OF COURSE IT WOULD. The habit of romanticizing suffering.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"Não teria graça se fosse fácil.\" CLARO QUE TERIA. Mania de romantizar sofrimento.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"No tendría gracia si fuera fácil.\" CLARO QUE LA TENDRÍA. Manía de romantizar el sufrimiento.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"簡単だったら面白くないでしょ。\" もちろん面白いよ。苦しみを美化する癖だね。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"쉽다면 재미없을 거야.\" 물론 재미있을 거야. 고통을 미화하는 습관이야.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"如果很容易就没有趣味了。\" 当然会有趣。总是把痛苦浪漫化的习惯。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"如果很容易就沒有趣味了。\" 當然會有趣。總是將痛苦浪漫化的習慣。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"Het zou niet leuk zijn als het gemakkelijk was.\" NATUURLIJK ZOU HET DAT. Het romantiseren van lijden is zo'n gewoonte.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"Es wäre nicht lustig, wenn es einfach wäre.\" NATÜRLICH WÄRE ES DAS. Die Gewohnheit, das Leiden zu romantisieren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"Non sarebbe divertente se fosse facile.\" OVVIO CHE LO SAREBBE. La mania di romanticizzare la sofferenza.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"Ce ne serait pas amusant si c'était facile.\" BIEN SÛR QUE SI. La manie de romantiser la souffrance.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "\"Это было бы неинтересно, если бы было легко.\" КОНЕЧНО, БЫЛО БЫ. Привычка романтизировать страдания.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Want strong defenses? Use construction points, earned in invasion phases.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Quer defesas fortes? Use pontos de construção, ganhos nas fases de invasão.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Quieres defensas fuertes? Usa puntos de construcción, obtenidos en las fases de invasión.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "強力な防御を望むなら、侵略フェーズで得た建設ポイントを使用しよう。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "강력한 방어를 원한다면, 침략 단계에서 얻은 건설 포인트를 사용하세요.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想要强大的防御吗？使用建设点，获得于入侵阶段。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想要強大的防禦嗎？使用建設點，獲得於入侵階段。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wil je sterke verdedigingen? Gebruik bouwpunten, verdiend in de invasiefases.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Möchtest du starke Verteidigungen? Verwende Baupunkte, die in den Invasionsphasen verdient werden.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vuoi difese forti? Usa punti di costruzione, guadagnati nelle fasi di invasione.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vous voulez des défenses solides ? Utilisez des points de construction, obtenus lors des phases d'invasion.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Хотите сильную оборону? Используйте строительные очки, полученные на этапах вторжения.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Want a boiled egg? Just throw water and an egg in the cauldron... no mystery, just wait!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Quer ovo cozido? Só jogar água e ovo no caldeirão... não tem mistério, é só esperar!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Quieres un huevo cocido? Solo pon agua y un huevo en el caldero... no tiene misterio, ¡solo espera!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ゆで卵が欲しい？お湯と卵を釜に入れるだけ…謎はない、ただ待てばいい！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "삶은 계란 원해? 그냥 물과 계란을 가마솥에 넣어... 별거 없고, 그냥 기다리면 돼!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想要煮鸡蛋吗？只需要把水和鸡蛋放进锅里... 没有什么神秘的，等着就行了!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想要煮雞蛋嗎？只需要把水和雞蛋放進鍋裡... 沒什麼神秘的，只要等就好了!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wil je een gekookt ei? Gooi gewoon water en een ei in de ketel... geen mysterie, gewoon wachten!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Willst du ein gekochtes Ei? Wirf einfach Wasser und ein Ei in den Kessel... kein Geheimnis, einfach warten!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vuoi un uovo sodo? Basta mettere acqua e uovo nel calderone... nessun mistero, basta aspettare!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu veux un œuf dur ? Mets simplement de l'eau et un œuf dans le chaudron... aucun mystère, il suffit d'attendre !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Хочешь вареное яйцо? Просто брось воду и яйцо в котел... нет никаких тайн, просто подожди!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "You only need to do your job, activate the Lumys cores to ward off the Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vocês só precisam fazer o trabalho de vocês, ativar os núcleos de Lumys para afasta a Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Solo necesitáis hacer vuestro trabajo, activar los núcleos de Lumys para alejar la Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "あなた方は自分たちの仕事をするだけでいい。ルーミスの核を起動して、ウンブラを退けるんだ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "당신들은 당신들의 할 일만 하면 됩니다. 루미스 핵을 활성화해서 움브라를 물리치세요.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你们只需要做好你们的工作，激活卢弥斯核心来驱散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你們只需要做好你們的工作，激活盧彌斯核心來驅散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Jullie hoeven alleen maar jullie werk te doen, de Lumys-kernen te activeren om de Umbra af te weren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ihr müsst nur eure Arbeit machen, die Lumys-Kerne aktivieren, um die Umbra abzuwehren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dovete solo fare il vostro lavoro, attivare i nuclei di Lumys per allontanare l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vous n'avez qu'à faire votre travail, activer les noyaux de Lumys pour repousser l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Вам нужно всего лишь выполнить свою работу, активировать ядра Люмиса, чтобы отогнать Умбру.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Want a fish stew? Just mix water, egg, salt, and a fish.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Quer um ensopado de peixe? Só misturar água, ovo, sal e um peixe.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Quieres un guiso de pescado? Solo mezcla agua, huevo, sal y un pescado.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "魚のシチューが欲しい？水、卵、塩、魚を混ぜるだけだよ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "생선 스튜 원해? 물, 계란, 소금, 생선만 섞으면 돼.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想要一锅鱼汤吗？只需要混合水、鸡蛋、盐和一条鱼。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "想要一鍋魚湯嗎？只需要混合水、雞蛋、鹽和一條魚。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wil je een visstoofpot? Meng gewoon water, ei, zout en een vis.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Willst du einen Fisch-Eintopf? Mische einfach Wasser, Ei, Salz und einen Fisch.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vuoi uno stufato di pesce? Basta mescolare acqua, uovo, sale e un pesce.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu veux un ragoût de poisson ? Il suffit de mélanger de l'eau, un œuf, du sel et un poisson.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Хочешь рыбный рагу? Просто смешай воду, яйцо, соль и рыбу.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Temperature affects hunger and thirst, so be prepared to eat or drink more depending on the weather!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "A temperatura mexe com a fome e a sede, então se prepare para comer ou beber mais, dependendo do clima!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La temperatura afecta el hambre y la sed, ¡así que prepárate para comer o beber más dependiendo del clima!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "気温は空腹と喉の渇きに影響を与えるので、天候によって食べたり飲んだりする準備をしておきましょう！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "기온은 배고픔과 갈증에 영향을 미치므로 날씨에 따라 더 많이 먹거나 마실 준비를 하세요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "温度会影响饥饿和口渴，因此根据天气准备好更多的食物或饮料！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "溫度會影響饑餓和口渴，因此根據天氣準備好更多的食物或飲料！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Temperatuur beïnvloedt honger en dorst, dus wees voorbereid om meer te eten of drinken, afhankelijk van het weer!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Temperatur beeinflusst Hunger und Durst, also sei darauf vorbereitet, je nach Wetter mehr zu essen oder zu trinken!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La temperatura influisce su fame e sete, quindi preparati a mangiare o bere di più a seconda del clima!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La température influence la faim et la soif, alors préparez-vous à manger ou boire plus en fonction du climat !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Температура влияет на голод и жажду, так что подготовьтесь есть или пить больше в зависимости от погоды!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The compost bin makes fertilizer, just throw some organic items in it.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "A composteira faz adubo, é só jogar uns itens orgânicos nela.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "El compostador hace abono, solo tienes que echar algunos artículos orgánicos en él.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "コンポストビンは肥料を作るので、いくつかの有機物を入れるだけでいいですよ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "퇴비통은 비료를 만들어요, 그냥 유기물을 좀 넣으면 돼요.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "堆肥箱能做肥料，只需要把一些有机物放进去。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "堆肥箱能做肥料，只需要把一些有機物放進去。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De compostbak maakt mest, gooi gewoon wat organische items erin.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Der Kompostbehälter macht Dünger, wirf einfach einige organische Materialien hinein.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il compostiere fa fertilizzante, basta mettere dentro alcuni oggetti organici.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le composteur fait de l'engrais, il suffit de jeter quelques éléments organiques dedans.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Компостер делает удобрение, просто бросьте в него несколько органических материалов!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Fertilizer speeds up plant growth. But, of course, if you don't have any, just keep waiting...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Adubo acelera o crescimento das plantas. Mas, claro, se você não tem, é só ficar esperando mesmo...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "El abono acelera el crecimiento de las plantas. Pero, claro, si no tienes, solo sigue esperando...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "肥料は植物の成長を速める。でも、もちろん、もし無ければただ待っているだけだね...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "비료는 식물 성장 속도를 높여요. 하지만, 물론, 없으면 그냥 기다리면 돼요...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "肥料能加速植物生长。但是，当然，如果你没有，只能继续等待...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "肥料能加速植物生長。但當然，如果沒有，就只好繼續等待...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Fertilizer versnelt de groei van planten. Maar als je geen hebt, kun je gewoon blijven wachten...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dünger beschleunigt das Wachstum der Pflanzen. Aber natürlich, wenn du keinen hast, kannst du einfach warten...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il concime accelera la crescita delle piante. Ma, ovviamente, se non ce l'hai, devi solo aspettare...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "L'engrais accélère la croissance des plantes. Mais bien sûr, si tu n'en as pas, il te suffit d'attendre...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Удобрение ускоряет рост растений. Но, конечно, если его нет, просто продолжай ждать...",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Put sugarcane in the furnace and voilà, sugar made! It looks like magic, but it's just heat.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Bota cana de açúcar na fornalha e voilà, açúcar feito! Parece magia, mas é só calor mesmo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pon caña de azúcar en el horno y voilà, azúcar hecho. Parece magia, pero en realidad es solo calor.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "サトウキビを炉に入れて、はい、砂糖ができた！魔法のように見えるけど、実際はただの熱さだよ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "사탕수수를 화로에 넣으면 짜잔, 설탕 완성! 마법처럼 보이지만, 사실은 그냥 열기야.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "把甘蔗放进炉子里，瞧，糖做好了！看起来像魔法，但其实只是热量而已。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "把甘蔗放進爐子裡，瞧，糖做好了！看起來像魔法，但其實只是熱量而已。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Doe suikerriet in de oven en voilà, suiker gemaakt! Het lijkt magie, maar het is gewoon warmte.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Leg Zuckerrohr in den Ofen und voilà, Zucker gemacht! Es sieht aus wie Magie, aber es ist einfach nur Wärme.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Metti della canna da zucchero nel forno e voilà, zucchero fatto! Sembra magia, ma in realtà è solo calore.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mets de la canne à sucre dans le four et voilà, du sucre fait ! Ça ressemble à de la magie, mais c'est juste de la chaleur.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Положи сахарный тростник в печь, и voilà, сахар готов! Это выглядит как магия, но на самом деле это просто тепло.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The heat will make you thirsty quickly! If you don't drink water soon, you'll get dehydrated!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O calor vai aumentar a sede rapidinho! Se não beber água logo, vai desidratar!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡El calor te dará sed rápidamente! Si no bebes agua pronto, te deshidratarás.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "暑さですぐに喉が渇くよ！すぐに水を飲まないと脱水症状になるよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "더위가 빨리 목마르게 만들어요! 물을 빨리 마시지 않으면 탈수될 거예요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "热量会让你很快感到口渴！如果不尽快喝水，你会脱水的！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "熱量會讓你很快口渴！如果不趕快喝水，你會脫水的！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De hitte maakt je snel dorstig! Als je niet snel water drinkt, raak je uitgedroogd!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Hitze macht dich schnell durstig! Wenn du nicht bald Wasser trinkst, wirst du dehydrieren!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il caldo ti farà venire sete velocemente! Se non bevi acqua presto, ti disidraterai!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La chaleur va te donner soif rapidement ! Si tu ne bois pas d'eau rapidement, tu te déshydrateras !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Жара быстро вызывает жажду! Если не выпить воды, ты обезвоживаешься!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The cold will increase hunger, my friend! The body needs more energy to stay warm. Better start hunting something to eat before you freeze from the inside!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O frio vai aumentar a fome, meu amigo! O corpo pede mais energia pra se manter aquecido. Melhor começar a caçar algo pra comer, antes que congele por dentro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡El frío aumentará el hambre, amigo mío! El cuerpo necesita más energía para mantenerse caliente. Mejor empieza a cazar algo para comer antes de que te congeles por dentro.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "寒さが食欲を増すぞ、友よ！体は暖かく保つためにもっとエネルギーを求めるんだ。凍える前に何かを狩り始めたほうがいいぞ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "추위는 배고픔을 더할 거야, 친구! 몸은 따뜻하게 유지하려면 더 많은 에너지가 필요해. 얼어붙기 전에 뭔가 먹을 것을 사냥하는 게 좋을 거야!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "寒冷会增加饥饿感，朋友！身体需要更多的能量来保持温暖。最好赶紧开始狩猎食物，免得从内到外都冻住了！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "寒冷會增加饑餓感，朋友！身體需要更多的能量來保持溫暖。最好趕緊開始狩獵食物，免得從內到外都凍住了！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De kou zal de honger verhogen, mijn vriend! Het lichaam heeft meer energie nodig om warm te blijven. Het is beter om iets te gaan jagen voordat je van binnenuit bevriest!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Kälte wird den Hunger steigern, mein Freund! Der Körper benötigt mehr Energie, um warm zu bleiben. Besser, du fängst an, etwas zu jagen, bevor du von innen erfrierst!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il freddo aumenterà la fame, amico mio! Il corpo ha bisogno di più energia per restare caldo. Meglio iniziare a cacciare qualcosa da mangiare prima che ti congeli dentro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le froid va augmenter la faim, mon ami ! Le corps demande plus d'énergie pour rester au chaud. Mieux vaut commencer à chasser quelque chose à manger avant de geler de l'intérieur !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Холод увеличит голод, мой друг! Тело требует больше энергии, чтобы поддерживать тепло. Лучше начать охоту на еду, пока не замерз изнутри!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The night can be really dark... unless you, I don't know, build some torches or campfires. Are you going to stay in the dark on purpose?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "A noite pode ser bem escura... a não ser que você, sei lá, construa umas tochas ou fogueiras. Vai ficar no escuro de propósito?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La noche puede ser muy oscura... a menos que, no sé, construyas algunas antorchas o fogatas. ¿Vas a quedarte en la oscuridad a propósito?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "夜はとても暗くなるかもしれません…それとも、どうだろう、トーチやキャンプファイヤーを作ってみる？わざと暗いままでいるつもり？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "밤은 정말 어두울 수 있어요... 아니면, 글쎄요, 토치나 캠프파이어를 좀 만들어보세요. 일부러 어둠 속에 있을 건가요?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "夜晚可能会非常黑暗...除非你，嗯，建造一些火把或篝火。你打算故意待在黑暗中吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "夜晚可能會非常黑暗...除非你，嗯，建造一些火把或篝火。你打算故意待在黑暗中嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De nacht kan behoorlijk donker zijn... tenzij je, weet je, wat fakkels of kampvuren bouwt. Ga je opzettelijk in het donker blijven?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Nacht kann wirklich dunkel sein... es sei denn, du baust, keine Ahnung, ein paar Fackeln oder Lagerfeuer. Willst du absichtlich im Dunkeln bleiben?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La notte può essere davvero buia... a meno che tu, non so, costruisca delle torce o dei falò. Vuoi rimanere al buio apposta?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La nuit peut être vraiment sombre... à moins que tu ne construises, je sais pas, des torches ou des feux de camp. Tu vas rester dans le noir exprès ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ночь может быть очень темной... если только ты, не знаю, не построишь несколько факелов или костров. Ты собираешься сидеть в темноте специально?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "You'll need wood to keep the fire burning in the torches and campfires... and in the meantime, start making charcoal. The work never ends, huh?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vai precisar de madeira pra manter o fogo aceso nas tochas e fogueiras... e, enquanto isso, já vai produzindo carvão. Trabalho nunca acaba, né?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vas a necesitar madera para mantener el fuego encendido en las antorchas y fogatas... y mientras tanto, empieza a hacer carbón. El trabajo nunca termina, ¿eh?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "トーチやキャンプファイヤーの火を絶やさないために木材が必要です…その間に、木炭を作り始めてください。仕事は終わらないね？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "횃불과 캠프파이어에서 불을 계속 키려면 나무가 필요해요... 그 사이에, 숯을 만들어보세요. 일은 끝이 없죠?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你需要木材来保持火炬和篝火中的火焰燃烧...与此同时，开始制作木炭。工作永远做不完，对吧？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你需要木材來保持火炬和篝火中的火焰燃燒...同時，開始製作木炭。工作永遠做不完，對吧？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Je hebt hout nodig om het vuur in de fakkels en kampvuren brandend te houden... en ondertussen begin je met het maken van houtskool. Werk stopt nooit, hè?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Du wirst Holz brauchen, um das Feuer in den Fackeln und Lagerfeuern am Brennen zu halten... und in der Zwischenzeit fang an, Kohle zu machen. Die Arbeit hört nie auf, oder?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Avrai bisogno di legna per tenere il fuoco acceso nelle torce e nei falò... e nel frattempo, inizia a produrre carbone. Il lavoro non finisce mai, eh?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu auras besoin de bois pour garder le feu allumé dans les torches et les feux de camp... et pendant ce temps, commence à faire du charbon. Le travail ne finit jamais, hein ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Тебе нужно будет древесина, чтобы поддерживать огонь в факелах и кострах... и за это время начни производить уголь. Работы не заканчиваются, да?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Gold ore is great for making chips! Run to the cave and grab yours... or keep waiting for the dev to do everything for you!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Minério de ouro é ótimo pra fazer chips! Corre pra caverna e pega o seu... ou fica esperando o dev fazer tudo por você!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡El mineral de oro es excelente para hacer chips! Corre a la cueva y consigue el tuyo... o sigue esperando a que el dev haga todo por ti!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "金鉱石はチップを作るのに最適だよ！洞窟に走って取りに行こう…それとも開発者がすべてをやるのを待っているのか！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "금광석은 칩을 만드는 데 아주 좋아! 동굴로 달려가서 네 걸 가져와… 아니면 개발자가 네 대신 다 해주기를 기다려!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "黄金矿石是做薯片的好材料！赶紧去洞窟拿你的…还是等着开发者替你做一切吧！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "黃金礦石是做薯片的好材料！快去洞窟拿你的…還是等著開發者替你做一切吧！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Gouderts is geweldig voor het maken van chips! Ren naar de grot en pak de jouwe... of blijf wachten tot de dev alles voor je doet!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Golderz ist großartig für die Herstellung von Chips! Renn in die Höhle und hol dir deins... oder warte weiter, bis der Dev alles für dich tut!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il minerale d'oro è ottimo per fare patatine! Corri nella caverna e prendi il tuo... o continua a aspettare che il dev faccia tutto per te!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le minerai d'or est génial pour faire des chips ! Cours dans la caverne et prends le tien... ou continue d'attendre que le dev fasse tout pour toi !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Золотая руда отлично подходит для изготовления чипсов! Беги в пещеру и забери свою... или продолжай ждать, пока разработчик сделает все за тебя!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I'll be honest, I prefer the old one! Of course, the old one was much better... ignoring all the improvements, of course!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vou ser sincero, prefiro o antigo! Claro, o antigo era muito melhor... ignorando todas as melhorias, é claro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Voy a ser sincero, ¡prefiero el antiguo! Claro, el antiguo era mucho mejor... ignorando todas las mejoras, por supuesto!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "正直言って、私は古い方が好きです！もちろん、古い方がずっと良かったです…すべての改善点を無視すれば、もちろん！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "솔직히 말해서, 나는 옛날 것을 선호해! 물론, 옛날 것이 훨씬 나았지... 모든 개선점을 무시하고 말이지!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "说实话，我更喜欢旧版！当然，旧版要好得多…当然是忽略所有的改进之后！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "說實話，我更喜歡舊版！當然，舊版要好得多…當然是忽略所有的改進後！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik ben eerlijk, ik geef de voorkeur aan de oude! Natuurlijk was de oude veel beter... alle verbeteringen negerend, natuurlijk!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich werde ehrlich sein, ich bevorzuge das alte! Natürlich war das alte viel besser... wenn man alle Verbesserungen ignoriert, natürlich!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sarò sincero, preferisco il vecchio! Certo, il vecchio era molto meglio... ignorando tutti i miglioramenti, ovviamente!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Je vais être honnête, je préfère l'ancien ! Bien sûr, l'ancien était bien meilleur... en ignorant toutes les améliorations, bien sûr !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Буду честен, я предпочитаю старую версию! Конечно, старая была намного лучше... если не учитывать все улучшения, конечно!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Ironforge machine guns are great for keeping enemies away... but, hey, don't forget they need a little time to reload.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Metralhadoras Ferroforge são ótimas pra afastar inimigos... mas, ó, não esquece que elas precisam de um tempinho pra recarregar.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Las ametralladoras Forjahierro son geniales para mantener a los enemigos a raya... pero, ¡ojo!, no olvides que necesitan un poco de tiempo para recargar.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "鉄骨連装機銃は敵を遠ざけるのに最適だ…だが、おい、リロードに少し時間がかかるのを忘れるなよ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "강철제작 기관총은 적을 멀리하는 데 아주 좋아... 하지만, 야, 재장전하는 데 시간이 좀 걸린다는 거 잊지 마.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "铁铸机枪很适合击退敌人……但是，嘿，别忘了它们需要一点时间来重新装填。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "鐵鑄機槍很適合擊退敵人……但是，嘿，別忘了它們需要一點時間來重新裝填。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "IJzersmid-machinegeweren zijn geweldig om vijanden op afstand te houden... maar hé, vergeet niet dat ze even tijd nodig hebben om te herladen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Eisenwerks-Maschinengewehre sind großartig, um Feinde fernzuhalten... aber hey, vergiss nicht, dass sie ein wenig Zeit zum Nachladen brauchen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le mitragliatrici Forgiaferro sono ottime per tenere a bada i nemici... ma, oh, non dimenticate che hanno bisogno di un po' di tempo per ricaricare.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Les mitrailleuses Forgefer sont parfaites pour éloigner les ennemis... mais, oh, n'oubliez pas qu'elles ont besoin d'un peu de temps pour se recharger.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Железокузнечные пулеметы отлично подходят для сдерживания врагов... но, эй, не забудьте, что им нужно немного времени на перезарядку.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "If you find a tall creature standing still and staring at you at night... run, my friend, that's not a good sign!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Se encontrar uma criatura alta, parada te encarando à noite... corre, meu chapa, que isso não é nem um bom sinal!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Si encuentras una criatura alta, parada mirándote por la noche... corre, amigo, ¡eso no es nada bueno!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "もし夜に高い生き物が立ってじっと見つめていたら…走れ、友よ、それはいい兆しじゃない！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "밤에 키 큰 생물이 멈춰 서서 널 쳐다보고 있다면... 뛰어, 친구야, 그건 좋은 징조가 아니야!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "如果你在晚上看到一个高大的生物静止不动地盯着你看...快跑，伙计，那可不是好兆头！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "如果你在晚上看到一個高大的生物靜止不動地盯著你看...快跑，夥計，那可不是好兆頭！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Als je 's nachts een lange creatuur ziet die stil staat en je aankijkt... ren, vriend, dat is geen goed teken!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wenn du nachts ein großes Wesen siehst, das still steht und dich anstarrt... lauf, mein Freund, das ist kein gutes Zeichen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Se trovi una creatura alta, immobile che ti fissa di notte... corri, amico, non è un buon segno!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Si tu trouves une créature grande, immobile, te fixant la nuit... cours, mon ami, ce n'est pas bon signe !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Если ты встретишь высокое существо, стоящее неподвижно и смотрящее на тебя ночью... бегите, мой друг, это плохой знак!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I already found a coconut while cutting palm trees on the beach... the water inside is so good that I almost forgot about the heat and laziness!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Já encontrei um côco enquanto cortava palmeiras na praia... a água de dentro é tão boa que quase esqueci do calor e da preguiça!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ya encontré un coco mientras cortaba palmeras en la playa... ¡el agua de adentro está tan buena que casi me olvido del calor y de la pereza!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ビーチでヤシの木を切っているときにココナッツを見つけたんだ…中の水がとてもおいしくて、暑さと怠惰をほとんど忘れちゃった！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "해변에서 야자수를 자르다가 코코넛을 찾았어요... 안의 물이 너무 맛있어서 더위와 게으름을 거의 잊을 뻔했어요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我在海滩上砍棕榈树时找到了一个椰子...里面的水好喝得让我差点忘记了炎热和懒惰！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我在海灘上砍棕櫚樹時找到了椰子...裡面的水好喝得讓我差點忘記了炎熱和懶惰！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik vond al een kokosnoot terwijl ik palmbomen op het strand aan het kappen was... het water erin is zo lekker dat ik de hitte en luiheid bijna vergat!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich habe schon eine Kokosnuss gefunden, während ich Palmen am Strand schnitt... das Wasser darin ist so gut, dass ich fast die Hitze und die Faulheit vergessen habe!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ho già trovato una noce di cocco mentre tagliavo palme sulla spiaggia... l'acqua dentro è così buona che quasi ho dimenticato il caldo e la pigrizia!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "J'ai déjà trouvé une noix de coco en coupant des palmiers sur la plage... l'eau à l'intérieur est tellement bonne que j'ai presque oublié la chaleur et la paresse !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Я уже нашел кокос, пока рубил пальмы на пляже... вода внутри такая вкусная, что я почти забыл про жару и лень!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Think carefully about where to put your characters' stats... or you'll end up with a warrior who barely knows how to hold a sword!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pense bem onde colocar os pontos dos seus personagens... ou vai acabar com um guerreiro que mal sabe segurar a espada!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Piensa bien dónde poner los puntos de tus personajes... ¡o acabarás con un guerrero que apenas sabe cómo sujetar una espada!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "キャラクターのステータスをどこに振るかよく考えなよ…さもないと、剣を持つのもままならない戦士になっちゃうよ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "캐릭터의 능력치를 어디에 배치할지 잘 생각해… 아니면 검을 겨우 쥐는 전사가 될 거야!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "好好想想把角色的点数分配到哪里...不然你会得到一个连剑都拿不稳的战士！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "好好想想把角色的點數分配到哪裡...不然你會得到一個連劍都拿不穩的戰士！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Denk goed na waar je de stats van je personages plaatst... anders eindig je met een krijger die nauwelijks een zwaard kan vasthouden!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Überlege gut, wo du die Punkte deiner Charaktere setzt... oder du endest mit einem Krieger, der kaum ein Schwert halten kann!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pensa bene dove mettere i punti dei tuoi personaggi... o finirai con un guerriero che a malapena sa come impugnare una spada!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Réfléchis bien où mettre les points de tes personnages... ou tu vas finir avec un guerrier qui peine à tenir une épée !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Хорошо подумай, куда распределить очки своих персонажей... иначе окажешься с воином, который едва может держать меч!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I received a letter from the king saying that soon we will have decorative furniture; finally, I'll be able to do a decent decoration.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Recebi uma carta do rei dizendo que em breve teremos móveis decorativos,, finalmente vou poder fazer uma decoração decente.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "He recibido una carta del rey diciendo que pronto tendremos muebles decorativos; finalmente, podré hacer una decoración decente.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "王様から手紙が届いた。近いうちに装飾的な家具が手に入るそうだ。ついにまともな飾り付けができるぞ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "왕에게서 편지를 받았는데 곧 장식 가구가 생길 거라고 하더군. 드디어 제대로 된 장식을 할 수 있겠어.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我收到国王的信，说我们很快就会有装饰性家具了，我终于可以做个像样的装饰了。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我收到國王的信，說我們很快就會有裝飾性家具了，我終於可以做個像樣的裝飾了。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik heb een brief van de koning ontvangen waarin staat dat we binnenkort decoratieve meubels zullen hebben; eindelijk kan ik een fatsoenlijke inrichting maken.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich habe einen Brief vom König erhalten, in dem steht, dass wir bald dekorative Möbel bekommen werden; endlich kann ich eine anständige Dekoration machen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ho ricevuto una lettera dal re che dice che presto avremo mobili decorativi; finalmente potrò fare una decorazione decente.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "J'ai reçu une lettre du roi disant que nous aurons bientôt des meubles décoratifs ; enfin, je vais pouvoir faire une décoration décente.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Я получил письмо от короля, в котором говорится, что скоро у нас будет декоративная мебель; наконец-то я смогу сделать приличное оформление.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Have you heard of the legendary Huecat?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Já ouviu falar do lendário Huecat?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¿Has oído hablar del legendario Huecat?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "伝説のヒューキャットについて聞いたことある？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "전설의 휴캣에 대해 들어본 적 있어?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你听说过传说中的Huecat吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你聽過傳說中的Huecat嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Heb je gehoord van de legendarische Huecat?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hast du schon von dem legendären Huecat gehört?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Hai sentito parlare del leggendario Huecat?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tu as entendu parler du légendaire Huecat ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ты слышал о легендарном Хьюкате?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I took some flasks out of the chest and they went right through the wall! But the king's engineer fixed it... with a makeshift solution, of course!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tirei uns frascos do baú e eles atravessaram a parede! Mas o engenheiro do rei deu um jeito… com uma gambiarra, claro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Saqué unos frascos del cofre ¡y atravesaron la pared! Pero el ingeniero del rey lo arregló... con una chapuza, ¡claro!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "宝箱からフラスコを取り出したら、壁を通り抜けちゃった！でも、王のエンジニアが何とかしてくれたよ…間に合わせの修理で、もちろんね！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "상자에서 플라스크 몇 개를 꺼냈는데 벽을 통과해 버렸어! 하지만 왕의 기술자가 고쳤지... 물론 임시변통으로!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我从箱子里拿出一些烧瓶，它们竟然穿墙而过！但是国王的工程师想了个办法……当然是用个临时的凑合方案！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我從箱子裡拿出一些燒瓶，它們竟然穿牆而過！但是國王的工程師想了個辦法……當然是用個臨時的湊合方案！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik haalde wat flessen uit de kist en ze gingen dwars door de muur! Maar de ingenieur van de koning heeft het gefixt... met een noodoplossing, natuurlijk!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich habe ein paar Fläschchen aus der Truhe genommen und sie sind direkt durch die Wand gegangen! Aber der Ingenieur des Königs hat es gerichtet... mit einer Notlösung, natürlich!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ho tirato fuori delle fiaschette dal baule e hanno attraversato il muro! Ma l'ingegnere del re ha trovato una soluzione... con una riparazione di fortuna, certo!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "J'ai sorti des fioles du coffre et elles ont traversé le mur ! Mais l'ingénieur du roi a trouvé une solution... avec un bricolage, bien sûr !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Я достал из сундука несколько склянок, и они прошли прямо сквозь стену! Но королевский инженер это исправил... конечно, с помощью какой-то времянки!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The other day, I crossed paths with a really suspicious guy, all wrapped up in a purple cloak. Couldn't see his face... either he was shy or he owed someone!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Outro dia, cruzei com um cara bem suspeito, todo enrolado num manto roxo. Não dava pra ver o rosto... ou ele era tímido ou tava devendo pra alguém!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "El otro día me crucé con un tipo bastante sospechoso, todo envuelto en una capa morada. No pude ver su cara... o era tímido o debía algo a alguien!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "この前、紫のマントに包まれた怪しい男に出会ったんだ。顔が見えなかった…恥ずかしがり屋か、誰かに借りがあるのか！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "저번에 아주 수상한 남자를 만났어요, 보라색 망토에 휘감겨 있었죠. 얼굴은 안 보였어요... 아니면 쑥스러운 거거나, 누군가에게 빚이 있거나!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "前几天，我遇到了一个非常可疑的人，全身裹在一件紫色披风里。看不清他的脸...要么他害羞，要么欠了某人钱！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "前幾天，我遇到了一個非常可疑的人，全身裹在一件紫色披風裡。看不清他的臉...要麼他害羞，要麼欠了某人錢！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De andere dag kwam ik een erg verdachte man tegen, helemaal in een paarse mantel gewikkeld. Ik kon zijn gezicht niet zien... of hij was verlegen of hij had iemand geld verschuldigd!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Neulich bin ich einem sehr verdächtigen Typen begegnet, ganz in einen lila Umhang gewickelt. Man konnte sein Gesicht nicht sehen... entweder war er schüchtern oder er schuldete jemandem etwas!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "L'altro giorno ho incontrato un tipo piuttosto sospetto, tutto avvolto in un mantello viola. Non riuscivo a vedere il volto... o era timido o doveva dei soldi a qualcuno!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "L'autre jour, j'ai croisé un type vraiment suspect, tout enroulé dans une cape violette. On ne voyait pas son visage... soit il était timide, soit il devait de l'argent à quelqu'un !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "На днях я столкнулся с очень подозрительным парнем, завернутым в фиолетовый плащ. Лицо не было видно... либо он стеснялся, либо был должен кому-то!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Looking for iron is a pain, right? But relax, if you're patient you'll find it in the cave.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Procurar ferro é um saco, né? Mas relaxa, se tiver paciência irá encontrar na caverna.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Buscar hierro es un fastidio, ¿verdad? Pero relájate, si tienes paciencia lo encontrarás en la cueva.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "鉄を探すのは面倒くさいよね？でも大丈夫、辛抱強く探せば洞窟で見つかるよ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "철 찾는 건 정말 짜증나지? 하지만 걱정 마, 인내심만 있다면 동굴에서 찾을 수 있을 거야.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "找铁真麻烦，是吧？不过别担心，如果你有耐心，会在洞穴里找到的。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "找鐵真麻煩，是吧？不過別擔心，如果你有耐心，會在洞穴裡找到的。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Naar ijzer zoeken is een rotklus, hè? Maar relax, als je geduld hebt, vind je het wel in de grot.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Eisen zu suchen ist ätzend, oder? Aber entspann dich, wenn du Geduld hast, wirst du es in der Höhle finden.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Cercare ferro è una scocciatura, vero? Ma rilassati, se hai pazienza lo troverai nella caverna.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Chercher du fer, c'est pénible, hein ? Mais détends-toi, si tu es patient, tu en trouveras dans la grotte.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Искать железо — это муторно, правда? Но расслабься, если будешь терпелив, то найдешь его в пещере.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The king wants all the praise for founding the order of the Silver Night Guardians. Have you ever seen a bigger ego than that?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O rei quer todos os elogios por fundar a ordem dos guardiões da noite prateada. Já viu ego maior que esse?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "El rey quiere todos los elogios por fundar la orden de los guardianes de la noche plateada. ¿Has visto alguna vez un ego más grande que ese?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "王は銀夜の守護者団の創設者として、すべての称賛を欲しがっている。あんなに大きなエゴを見たことがあるか？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "왕은 은빛 밤의 수호자 기사단을 창설한 것에 대해 모든 칭찬을 받고 싶어 해. 저것보다 더 큰 자아도취를 본 적 있어?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "国王想要所有人都赞扬他创立了白银之夜守护者团。你见过比这更大的自我吗？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "國王想要所有人都讚揚他創立了白銀之夜守護者團。你見過比這更大的自我嗎？",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De koning wil alle lof voor het oprichten van de orde van de Zilveren Nachtwachten. Heb je ooit een groter ego gezien?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Der König will alles Lob dafür, den Orden der Silbernen Nachtwächter gegründet zu haben. Hast du jemals ein größeres Ego gesehen?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il re vuole tutte le lodi per aver fondato l'ordine dei guardiani della notte argentata. Hai mai visto un ego più grande di questo?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le roi veut toutes les louanges pour avoir fondé l'ordre des gardiens de la nuit d'argent. Avez-vous déjà vu un ego plus grand que ça ?",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Король хочет всех похвал за основание ордена Стражей Серебряной Ночи. Вы когда-нибудь видели эго больше этого?",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "These are difficult times, there are rumors that the Umbra is spreading faster.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "São tempos difíceis, há rumores de que a Umbra está se espalhando mais rápido.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Son tiempos difíciles, hay rumores de que la Umbra se está extendiendo más rápido.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "困難な時代だ。ウンブラがより速く広がっているという噂がある。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "힘든 시기입니다. 움브라가 더 빠르게 확산되고 있다는 소문이 있습니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "现在是艰难时期，有传言说幽影正在更快地蔓延。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "現在是艱難時期，有傳言說幽影正在更快地蔓延。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Het zijn moeilijke tijden, er gaan geruchten dat de Umbra zich sneller verspreidt.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Es sind schwierige Zeiten, es gibt Gerüchte, dass die Umbra sich schneller ausbreitet.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sono tempi difficili, ci sono voci che l'Umbra si stia diffondendo più rapidamente.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ce sont des temps difficiles, des rumeurs courent selon lesquelles l'Umbra se répand plus rapidement.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Это трудные времена, ходят слухи, что Умбра распространяется быстрее.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Over time, even a chick turns into a chicken. And guess what? It'll start laying eggs for you... unless it becomes dinner first!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Com o tempo, até um pintinho vira galinha. E adivinha? Vai começar a botar ovos pra você... se não virar jantar antes!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Con el tiempo, hasta un pollito se convierte en gallina. ¿Y adivina qué? Empezará a poner huevos para ti... ¡si no se convierte en cena antes!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "時間が経てば、ひよこだってニワトリになります。そして、なんと！卵を産み始めるかも…夕食にならなければね！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "시간이 지나면 병아리도 닭이 돼요. 그리고 알아요? 당신을 위해 알을 낳기 시작할 거예요... 저녁 식사가 되지 않는다면요!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "随着时间的推移，小鸡也会变成母鸡。猜猜看？它会开始为你下蛋... 如果不先变成晚餐的话！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "隨著時間的推移，小雞也會變成母雞。猜猜看？它會開始為你下蛋... 如果不先變成晚餐的話！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Met de tijd wordt een kuikentje een kip. En raad eens? Het gaat eieren voor je leggen... tenzij het eerder je avondeten wordt!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mit der Zeit wird aus einem Küken ein Huhn. Und rate mal? Es wird anfangen, Eier für dich zu legen... es sei denn, es wird vorher zum Abendessen!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Col tempo, anche un pulcino diventa una gallina. E indovina? Inizierà a fare uova per te... a meno che non diventi cena prima!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Avec le temps, même un poussin devient une poule. Et devine quoi ? Elle va commencer à pondre des œufs pour toi... sauf si elle finit en dîner avant !",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Со временем даже цыпленок становится курицей. И угадай что? Она начнет нести яйца для тебя... если только не станет ужином раньше!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Being an elf has its advantages, using Lumys is very easy for me, it's just that I've never been interested in using it.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ser elfo tem suas vantagens, usar Lumys é muito fácil pra mim, só que eu nunca me interessei em usar.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ser elfo tiene sus ventajas, usar Lumys es muy fácil para mí, solo que nunca me he interesado en usarlo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "エルフであることには利点がある。ルーミスを使うのは私にとってとても簡単だ。ただ、使うことに興味を持ったことがないんだ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "엘프인 것은 장점이 있어. 루미스를 사용하는 건 나한테 아주 쉬워. 단지, 한 번도 사용하는 데 관심이 없었을 뿐이야.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "当精灵有它的优势，对我来说使用卢弥斯非常容易，只是我从来没有对使用它感兴趣。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "當精靈有它的優勢，對我來說使用盧彌斯非常容易，只是我從來沒有對使用它感興趣。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Elf zijn heeft zo zijn voordelen, Lumys gebruiken is heel makkelijk voor mij, alleen heb ik er nooit interesse in gehad om het te gebruiken.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Elf zu sein hat seine Vorteile, Lumys zu benutzen ist sehr einfach für mich, nur habe ich mich nie dafür interessiert, es zu benutzen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Essere un elfo ha i suoi vantaggi, usare Lumys è molto facile per me, solo che non mi è mai interessato usarlo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Être un elfe a ses avantages, utiliser le Lumys est très facile pour moi, c'est juste que ça ne m'a jamais intéressé de l'utiliser.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Быть эльфом имеет свои преимущества, использовать Люмис для меня очень легко, просто я никогда не был заинтересован в его использовании.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I wonder what goes through the heads of some humans who use Umbra, they know it's corrupted magic and still use it, foolishness.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Me pergunto o que passa na cabeça de alguns humanos que usam Umbra, eles sabem que é magia corrompida e ainda sim usam, burrisse.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Me pregunto qué pasa por la cabeza de algunos humanos que usan Umbra, saben que es magia corrompida y aún así la usan, estupidez.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ウンブラを使う一部の人間は何を考えているんだろう？あれが堕落した魔法だって知ってるのに、それでも使うなんて、愚かだ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "움브라를 사용하는 일부 인간들은 무슨 생각을 하는 걸까? 그게 타락한 마법인 걸 알면서도 여전히 사용하다니, 멍청하긴.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我好奇一些使用幽影的人类到底在想什么，他们明明知道那是被腐蚀的魔法却仍然使用，真是愚蠢。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我好奇一些使用幽影的人類到底在想什麼，他們明明知道那是被腐蝕的魔法卻仍然使用，真是愚蠢。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik vraag me af wat er omgaat in de hoofden van sommige mensen die Umbra gebruiken, ze weten dat het corrupte magie is en gebruiken het nog steeds, domheid.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich frage mich, was in den Köpfen einiger Menschen vorgeht, die Umbra benutzen. Sie wissen, dass es verdorbene Magie ist und benutzen sie trotzdem, Dummheit.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mi chiedo cosa passi per la testa di alcuni umani che usano l'Umbra, sanno che è magia corrotta e la usano lo stesso, stupidità.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Je me demande ce qui se passe dans la tête de certains humains qui utilisent l'Umbra, ils savent que c'est de la magie corrompue et ils l'utilisent quand même, quelle bêtise.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Интересно, что творится в головах некоторых людей, использующих Умбру? Они знают, что это испорченная магия, и все равно ее используют, глупость.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The king's court continues to look for more warriors to join the order; not everyone is interested in the reward.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "A corte do rei continua procurando mais guerreiros pra se juntar a ordem, nem todo mundo se interessa pela recompensa.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La corte del rey sigue buscando más guerreros para unirse a la orden; no todo el mundo está interesado en la recompensa.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "王の宮廷は、騎士団に加わる戦士をさらに探し続けている。誰もが報酬に興味を持っているわけではない。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "왕궁은 계속해서 기사단에 합류할 더 많은 전사들을 찾고 있어. 모두가 보상에 관심 있는 건 아니야.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "国王的宫廷仍在寻找更多战士加入骑士团，并非所有人都对奖励感兴趣。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "國王的宮廷仍在尋找更多戰士加入騎士團，並非所有人都對獎勵感興趣。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Het hof van de koning blijft zoeken naar meer krijgers om zich bij de orde aan te sluiten; niet iedereen is geïnteresseerd in de beloning.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Der Hof des Königs sucht weiterhin nach weiteren Kriegern, die dem Orden beitreten sollen; nicht jeder ist an der Belohnung interessiert.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La corte del re continua a cercare altri guerrieri da unire all'ordine; non tutti sono interessati alla ricompensa.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La cour du roi continue de chercher d'autres guerriers pour rejoindre l'ordre ; tout le monde n'est pas intéressé par la récompense.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Королевский двор продолжает искать новых воинов, чтобы присоединиться к ордену; не все заинтересованы в награде.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The great creator divinity of everything watches us at night.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "A grande dinvidade criadora de tudo nos observa a noite.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La gran divinidad creadora de todo nos observa por la noche.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "万物を創造した偉大な神は、夜に私たちを見守っている。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "만물의 위대한 창조신이 밤에 우리를 지켜보고 있다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "创造万物的伟大神祇在夜晚注视着我们。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "創造萬物的偉大神祇在夜晚注視著我們。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De grote scheppende godheid van alles houdt ons 's nachts in de gaten.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die große Schöpfergottheit von allem beobachtet uns in der Nacht.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La grande divinità creatrice di tutto ci osserva di notte.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La grande divinité créatrice de toute chose nous observe la nuit.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Великое божество-создатель всего наблюдает за нами ночью.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The functioning of the Lumys core is fascinating; it restores the entire environment and wards off the Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "É fascinante o funcionamento do núcleo de Lumys, ele restaura todo o meio ambiente e afasta a umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Es fascinante el funcionamiento del núcleo de Lumys; restaura todo el medio ambiente y aleja la Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ルーミス核の機能は魅力的だ。それは環境全体を修復し、ウンブラを退ける。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "루미스 핵의 작동 방식은 정말 흥미로워. 주변 환경 전체를 복원하고 움브라를 물리치지.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "卢弥斯核心的运作方式令人着迷；它能恢复整个环境并驱散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "盧彌斯核心的運作方式令人著迷；它能恢復整個環境並驅散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De werking van de Lumys-kern is fascinerend; het herstelt het hele milieu en weert de Umbra af.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Funktionsweise des Lumys-Kerns ist faszinierend; er stellt die gesamte Umwelt wieder her und wehrt die Umbra ab.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il funzionamento del nucleo di Lumys è affascinante; ripristina l'intero ambiente e allontana l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le fonctionnement du noyau de Lumys est fascinant ; il restaure tout l'environnement et repousse l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Функционирование ядра Люмиса завораживает; оно восстанавливает всю окружающую среду и отгоняет Умбру.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I find the behavior of the Marphaliths suspicious; they keep watching everything we do...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Acho o comportamento dos Marphaliths suspeito, ele ficam observando tudo que fazemos...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Encuentro sospechoso el comportamiento de los Marphaliths; se quedan observando todo lo que hacemos...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "マーファリスの行動は怪しいと思う。彼らは私たちのすることすべてを観察しているようだ…。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "마파리스의 행동이 수상하다고 생각해. 놈들은 우리가 하는 모든 것을 계속 지켜보고 있어...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我觉得玛法利斯的行为很可疑，它们一直观察我们所做的一切……",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我覺得瑪法利斯的行為很可疑，它們一直觀察我們所做的一切……",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik vind het gedrag van de Marphaliths verdacht; ze blijven alles wat we doen in de gaten houden...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich finde das Verhalten der Marphaliths verdächtig; sie beobachten ständig alles, was wir tun...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Trovo sospetto il comportamento dei Marphalith; continuano a osservare tutto ciò che facciamo...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Je trouve le comportement des Marphaliths suspect ; ils n'arrêtent pas de regarder tout ce que nous faisons...",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Мне кажется поведение Марфалитов подозрительным; они постоянно наблюдают за всем, что мы делаем...",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "You can reset your level, and all stats will return to their base value.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Você pode resetar o level e todos os estatos voltaram pro valor base.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Puedes reiniciar el nivel y todas las estadísticas volverán a su valor base.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "レベルをリセットすると、すべてのステータスが基本値に戻ります。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "레벨을 초기화하면 모든 스탯이 기본값으로 돌아갑니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你可以重置等级，所有属性都会回到基础数值。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "你可以重置等級，所有屬性都會回到基礎數值。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Je kunt je level resetten, en alle stats keren terug naar hun basiswaarde.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Du kannst dein Level zurücksetzen, und alle Statuswerte kehren zu ihrem Basiswert zurück.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Puoi resettare il livello e tutte le statistiche torneranno al loro valore base.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vous pouvez réinitialiser votre niveau, et toutes les statistiques reviendront à leur valeur de base.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Вы можете сбросить свой уровень, и все характеристики вернутся к базовому значению.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Ferroforge technology is brilliant, the mini-Ferys love studying this technology!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "A tecnologia Ferroforge é genial, os mini Ferys amam estudar essa tecnologia!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "¡La tecnología Ferroforge es genial, a los mini Ferys les encanta estudiar esta tecnología!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "鉄骨鍛冶技術は素晴らしい。ミニ・フェリスはこの技術を学ぶのが大好きだ！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "페로포지 기술은 정말 대단해! 미니 페리스들은 이 기술을 연구하는 걸 정말 좋아해!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "费罗弗奇技术太棒了，迷你费里斯们喜欢研究这项技术！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "費羅弗奇技術太棒了，迷你費里斯們喜歡研究這項技術！",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ferroforge-technologie is geniaal, de mini-Ferys zijn dol op het bestuderen van deze technologie!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Ferroforge-Technologie ist genial, die Mini-Ferys lieben es, diese Technologie zu studieren!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La tecnologia Ferroforge è geniale, i mini-Ferys adorano studiare questa tecnologia!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La technologie Ferroforge est géniale, les mini-Ferys adorent étudier cette technologie!",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Технология Феррофордж гениальна, мини-ферисы обожают изучать эту технологию!",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I've noticed there are some people who joined the order just for the money; I won't judge, I'm here for the cash too.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Percebi que tem uma galera que se juntou a ordem apenas pelo dinheiro, não vou julgar, também estou aqui pela grana.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Me he dado cuenta de que hay gente que se unió a la orden solo por el dinero; no voy a juzgar, yo también estoy aquí por la pasta.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "騎士団に入った連中の中には、金目当てのやつもいるって気づいたよ。別に責めないけど、俺も金のためだしな。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "기사단에 돈 때문에 합류한 사람들이 꽤 있다는 걸 알았어. 뭐라 할 건 없어, 나도 돈 때문에 여기 있는 거니까.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我注意到有些人加入骑士团只是为了钱；我不会评判，我也是为了钱来的。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我注意到有些人加入騎士團只是為了錢；我不會評判，我也是為了錢來的。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik heb gemerkt dat er een aantal mensen bij de orde zijn gekomen puur voor het geld; ik zal niet oordelen, ik ben hier ook voor het geld.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mir ist aufgefallen, dass es einige Leute gibt, die dem Orden nur wegen des Geldes beigetreten sind; ich werde nicht urteilen, ich bin auch wegen des Geldes hier.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ho notato che c'è gente che si è unita all'ordine solo per i soldi; non giudicherò, anch'io sono qui per i soldi.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "J'ai remarqué qu'il y a des gens qui ont rejoint l'ordre juste pour l'argent ; je ne vais pas juger, je suis là pour le fric aussi.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Я заметил, что некоторые вступили в орден только из-за денег; я не буду судить, я тоже здесь ради бабла.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Activating the Lumys core attracts creatures that have had contact with the Umbra; your job is to protect the core.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ativar o núcelo de Lumys atrai criaturas que tiveram contato com a Umbra, o seu trabalho é proteger o núcleo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Activar el núcleo de Lumys atrae criaturas que han tenido contacto con la Umbra; vuestro trabajo es proteger el núcleo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ルーミス核を起動すると、ウンブラと接触したことのあるクリーチャーを引き寄せます。あなた方の仕事は、その核を守ることです。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "루미스 핵을 활성화하면 움브라와 접촉했던 생물들을 끌어들입니다. 당신들의 임무는 그 핵을 보호하는 것입니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "激活卢弥斯核心会吸引接触过幽影的生物，你们的工作是保护核心。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "激活盧彌斯核心會吸引接觸過幽影的生物，你們的工作是保護核心。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Het activeren van de Lumys-kern trekt wezens aan die in contact zijn geweest met de Umbra; jullie taak is om de kern te beschermen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Das Aktivieren des Lumys-Kerns zieht Kreaturen an, die Kontakt mit der Umbra hatten; eure Aufgabe ist es, den Kern zu schützen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Attivare il nucleo di Lumys attrae creature che hanno avuto contatti con l'Umbra; il vostro compito è proteggere il nucleo.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Activer le noyau de Lumys attire les créatures qui ont été en contact avec l'Umbra ; votre travail consiste à protéger le noyau.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Активация ядра Люмиса привлекает существ, которые контактировали с Умброй; ваша задача — защитить ядро.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "There are reports that after some core activations, guardians were teleported to an unknown location.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ouve relatos de que após algumas ativasões do núcleo, guardiões foram teleportados para um local desconhecido.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Se oyen relatos de que, tras algunas activaciones del núcleo, los guardianes fueron teletransportados a un lugar desconocido.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "核の起動を数回行った後、守護者たちが未知の場所へテレポートされたという報告がある。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "핵 활성화 후 일부 수호자들이 알 수 없는 장소로 순간 이동했다는 보고가 있습니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "有报告称，在几次核心激活后，守护者被传送到了一个未知地点。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "有報告稱，在幾次核心激活後，守護者被傳送到了一個未知地點。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Er zijn berichten dat na enkele kernactivaties wachters naar een onbekende locatie zijn geteleporteerd.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Es gibt Berichte, dass nach einigen Kernaktivierungen Wächter an einen unbekannten Ort teleportiert wurden.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ci sono segnalazioni che, dopo alcune attivazioni del nucleo, i guardiani siano stati teletrasportati in un luogo sconosciuto.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Des rapports indiquent qu'après quelques activations du noyau, des gardiens ont été téléportés vers un lieu inconnu.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Поступают сообщения, что после нескольких активаций ядра стражи были телепортированы в неизвестное место.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Since the emergence of the Umbra, the kingdom has been in a constant struggle with the corruption that the Umbra spreads.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Desde o surgimento da Umbra, O reino está em uma luta constante com a corrupção que a Umbra espalha.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Desde el surgimiento de la Umbra, el reino ha estado en una lucha constante contra la corrupción que la Umbra propaga.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ウンブラの出現以来、王国はウンブラが広める腐敗との絶え間ない戦いの中にあります。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "움브라가 나타난 이후로, 왕국은 움브라가 퍼뜨리는 부패와 끊임없이 싸워왔습니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "自从幽影出现以来，王国就一直处于与幽影蔓延的腐败进行的持续斗争中。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "自從幽影出現以來，王國就一直處於與幽影蔓延的腐敗進行的持續鬥爭中。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sinds de opkomst van de Umbra bevindt het koninkrijk zich in een constante strijd met de corruptie die de Umbra verspreidt.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Seit dem Aufkommen der Umbra befindet sich das Königreich in einem ständigen Kampf gegen die Korruption, die die Umbra verbreitet.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dall'avvento dell'Umbra, il regno è in una costante lotta contro la corruzione che l'Umbra diffonde.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Depuis l'apparition de l'Umbra, le royaume est dans une lutte constante contre la corruption que l'Umbra répand.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "С момента появления Умбры королевство ведет постоянную борьбу с коррупцией, которую распространяет Умбра.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Feel free to do whatever you want; you can collect resources and even build inside and outside the house. It's yours as long as you're a guardian.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Fique a vontade para fazer o que quiser, pode coletar os recursos e até construir dentro e fora da casa, ela é sua enquanto for um guardião.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Siéntete libre de hacer lo que quieras; puedes recolectar recursos e incluso construir dentro y fuera de la casa. Es tuya mientras seas un guardián.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "好きなようにしてくれて構わない。資源を集めてもいいし、家の内外に建設してもいい。あなたが守護者である限り、それはあなたのものだ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "원하는 대로 하세요. 자원을 수집해도 되고, 집 안팎으로 건설해도 됩니다. 당신이 수호자인 동안은 당신의 것입니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "请随意做任何你想做的事；你可以收集资源，甚至可以在房屋内外建造。只要你是一名守护者，它就是你的。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "請隨意做任何你想做的事；你可以收集資源，甚至可以在房屋內外建造。只要你是一名守護者，它就是你的。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Voel je vrij om te doen wat je wilt; je kunt grondstoffen verzamelen en zelfs binnen en buiten het huis bouwen. Het is van jou zolang je een wachter bent.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Fühl dich frei zu tun, was du willst; du kannst Ressourcen sammeln und sogar innerhalb und außerhalb des Hauses bauen. Es gehört dir, solange du ein Wächter bist.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sentiti libero di fare quello che vuoi; puoi raccogliere risorse e persino costruire dentro e fuori casa. È tua finché sarai una guardiana.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "N'hésitez pas à faire ce que vous voulez ; vous pouvez collecter des ressources et même construire à l'intérieur et à l'extérieur de la maison. Elle est à vous tant que vous serez un gardien.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Чувствуйте себя свободно, делайте что хотите; можете собирать ресурсы и даже строить внутри и снаружи дома. Он ваш, пока вы являетесь стражем.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The role of the Silver Night Guardians is to activate and protect the Lumys cores to restore the world and ward off the Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O papel dos guardiões da noite prateada é ativar e proteger os núcleos de Lumys para restaurar o mundo e afastar a Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "El papel de los Guardianes de la Noche Plateada es activar y proteger los núcleos de Lumys para restaurar el mundo y alejar la Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "銀夜の守護者たちの役割は、ルーミス核を起動し保護することで、世界を修復し、ウンブラを退けることです。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "은빛 밤의 수호자들의 역할은 루미스 핵을 활성화하고 보호하여 세계를 복원하고 움브라를 물리치는 것입니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "白银之夜守护者的职责是激活并保护卢弥斯核心，以恢复世界并驱散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "白銀之夜守護者的職責是激活並保護盧彌斯核心，以恢復世界並驅散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De rol van de Wachters van de Zilveren Nacht is het activeren en beschermen van de Lumys-kernen om de wereld te herstellen en de Umbra af te weren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Die Aufgabe der Wächter der Silbernen Nacht ist es, die Lumys-Kerne zu aktivieren und zu schützen, um die Welt wiederherzustellen und die Umbra abzuwehren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il ruolo dei Guardiani della Notte Argentea è attivare e proteggere i nuclei di Lumys per ripristinare il mondo e allontanare l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le rôle des Gardiens de la Nuit d'Argent est d'activer et de protéger les noyaux de Lumys pour restaurer le monde et repousser l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Роль Стражей Серебряной Ночи заключается в активации и защите ядер Люмиса для восстановления мира и отражения Умбры.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "The Lumys core has a Ferroforge machine underneath it; it makes the core reach its potential. Without it, it wouldn't be possible to ward off the Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O núcleo de Lumys possui uma máquina Ferroforge embaixo, ela faz o núcleo atingir seu potencial, sem ela não seria possível afastar a Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "El núcleo de Lumys tiene una máquina Ferroforge debajo; hace que el núcleo alcance su potencial. Sin ella, no sería posible alejar la Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ルーミス核の下には鉄骨鍛冶の機械がある。それが核の潜在能力を引き出すんだ。それなしでは、ウンブラを退けることは不可能だろう。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "루미스 핵 아래에는 페로포지 기계가 있어. 그 기계가 핵이 잠재력을 발휘하도록 만들지. 그게 없으면 움브라를 물리치는 건 불가능할 거야.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "卢弥斯核心下方有一台费罗弗奇机器，它使核心发挥其潜力。没有它，就不可能驱散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "盧彌斯核心下方有一台費羅弗奇機器，它使核心發揮其潛力。沒有它，就不可能驅散幽影。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "De Lumys-kern heeft een Ferroforge-machine eronder; die zorgt ervoor dat de kern zijn potentieel bereikt. Zonder die machine zou het niet mogelijk zijn om de Umbra af te weren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Der Lumys-Kern hat eine Ferroforge-Maschine darunter; sie bewirkt, dass der Kern sein Potenzial erreicht. Ohne sie wäre es nicht möglich, die Umbra abzuwehren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il nucleo di Lumys ha una macchina Ferroforge al di sotto; essa fa sì che il nucleo raggiunga il suo potenziale. Senza di essa, non sarebbe possibile allontanare l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Le noyau de Lumys possède une machine Ferroforge en dessous ; elle permet au noyau d'atteindre son potentiel. Sans elle, il ne serait pas possible de repousser l'Umbra.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ядро Люмиса имеет под собой машину Феррофордж; она позволяет ядру достичь своего потенциала. Без нее было бы невозможно отогнать Умбру.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "There is a cult that wishes to unleash the corruption of the Umbra upon the world; they are dangerous.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Existe um culto que deseja libertar a corrupção da Umbra no mundo, eles são perigosos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Existe un culto que desea liberar la corrupción de la Umbra en el mundo; son peligrosos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "世界にウンブラの腐敗を解き放とうと企むカルト教団が存在する。彼らは危険だ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "세상에 움브라의 부패를 해방시키려는 컬트 집단이 있어. 그들은 위험해.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "有一个邪教想要将幽影的腐败力量释放到世界上，他们很危险。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "有一個邪教想要將幽影的腐敗力量釋放到世界上，他們很危險。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Er is een sekte die de corruptie van de Umbra in de wereld wil ontketenen; ze zijn gevaarlijk.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Es gibt einen Kult, der die Korruption der Umbra in der Welt entfesseln will; sie sind gefährlich.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Esiste un culto che desidera liberare la corruzione dell'Umbra nel mondo; sono pericolosi.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Il existe un culte qui souhaite libérer la corruption de l'Umbra dans le monde ; ils sont dangereux.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Существует культ, который желает высвободить порчу Умбры в мире; они опасны.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Humans can hardly surpass elves in the use of Lumys, not even if they use a staff with a Lumys jewel as a catalyst.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dificilmente humanos conseguem superar elfos no uso de Lumys, nem se usarem um cajado com joia de Lumys como catalisador",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Difícilmente los humanos pueden superar a los elfos en el uso de Lumys, ni siquiera si usan un bastón con una joya de Lumys como catalizador.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "人間がルーミスの使用においてエルフを凌駕することはほとんどない。ルーミスの宝石を触媒とする杖を使っても同様だ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "인간이 루미스 사용에서 엘프를 능가하기는 거의 불가능해. 루미스 보석을 촉매로 사용하는 지팡이를 사용한다 해도 마찬가지야.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "人类在卢弥斯的使用上很难超越精灵，即使他们使用镶嵌卢弥斯宝石的法杖作为催化剂也是如此。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "人類在盧彌斯的使用上很難超越精靈，即使他們使用鑲嵌盧彌斯寶石的法杖作為催化劑也是如此。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mensen kunnen elfen nauwelijks overtreffen in het gebruik van Lumys, zelfs niet als ze een staf met een Lumys-juweel als katalysator gebruiken.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Menschen können Elfen kaum in der Anwendung von Lumys übertreffen, nicht einmal, wenn sie einen Stab mit einem Lumys-Juwel als Katalysator verwenden.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Difficilmente gli umani riescono a superare gli elfi nell'uso di Lumys, nemmeno se usano un bastone con una gemma di Lumys come catalizzatore.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Les humains peuvent difficilement surpasser les elfes dans l'utilisation du Lumys, même s'ils utilisent un bâton avec un joyau de Lumys comme catalyseur.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Людям едва ли удается превзойти эльфов в использовании Люмиса, даже если они используют посох с самоцветом Люмиса в качестве катализатора.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "I have a crush on the Hasims; I have the urge to touch their ears.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Eu tenho uma queda pelas Hasims, tenho vontade de tocar nas orelhas delas.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Me gustan mucho las Hasim; tengo ganas de tocarles las orejas.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "私はハシム族に惹かれる。彼女たちの耳に触れたい衝動があるんだ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "나는 하시미들에게 끌려. 그들의 귀를 만지고 싶은 충동이 들어.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我迷恋上了哈希姆人，很想摸摸她们的耳朵。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我迷戀上了哈希姆人，很想摸摸她們的耳朵。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ik heb een zwak voor de Hasims; ik heb de neiging om hun oren aan te raken.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ich habe eine Schwäche für die Hasims; ich habe das Verlangen, ihre Ohren zu berühren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ho un debole per le Hasim; ho voglia di toccare le loro orecchie.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "J'ai un faible pour les Hasims ; j'ai envie de toucher leurs oreilles.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Я неравнодушен к хасимам; у меня есть желание потрогать их уши.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "There's no way I'd ever use Umbra, that magic is disgusting.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Nunca que eu usaria Umbra, essa magia é nojenta.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Jamás usaría Umbra, esa magia es asquerosa.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "絶対にウンブラなんて使わない。あんな魔法は吐き気がする。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "절대 움브라 같은 건 안 써. 저 마법은 역겨워.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我绝不会使用幽影，那种魔法真令人作呕。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "我絕不會使用幽影，那種魔法真令人作嘔。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Nooit zou ik Umbra gebruiken, die magie is walgelijk.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Niemals würde ich Umbra benutzen, diese Magie ist widerlich.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Non userei mai l'Umbra, quella magia è disgustosa.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Jamais je n'utiliserais l'Umbra, cette magie est dégoûtante.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Никогда бы я не стал использовать Умбру, эта магия отвратительна.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "It's incredible that even without the ability to use Lumys, the Hasim had the brilliant idea to implant jewels in their equipment.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "É incrível que mesmo não tendo capacidade de usar Lumys, as Hasim tiveram a ideia genial de implantar joias em seus equipamentos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Es increíble que, incluso sin la capacidad de usar Lumys, los Hasim tuvieran la brillante idea de implantar joyas en sus equipos.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ルーミスを使う能力がないにもかかわらず、ハシム族が装備に宝石を埋め込むという素晴らしいアイデアを思いついたのは驚くべきことだ。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "루미스를 사용할 능력이 없음에도 불구하고, 하시미들이 장비에 보석을 이식하는 기발한 아이디어를 떠올렸다는 건 정말 놀라워.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "令人难以置信的是，即使没有使用卢弥斯的能力，哈希姆人也想出了在他们的装备上镶嵌宝石的绝妙主意。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "令人難以置信的是，即使沒有使用盧彌斯的能力，哈希姆人也想出了在他們的裝備上鑲嵌寶石的絕妙主意。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Het is ongelooflijk dat zelfs zonder de mogelijkheid om Lumys te gebruiken, de Hasim het briljante idee hadden om juwelen in hun uitrusting te implanteren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Es ist unglaublich, dass die Hasim, obwohl sie keine Fähigkeit zur Nutzung von Lumys haben, die brillante Idee hatten, Juwelen in ihre Ausrüstung zu implantieren.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "È incredibile che, pur non avendo la capacità di usare Lumys, gli Hasim abbiano avuto la brillante idea di impiantare gemme nelle loro attrezzature.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "C'est incroyable que même sans avoir la capacité d'utiliser le Lumys, les Hasim aient eu l'idée géniale d'implanter des joyaux dans leur équipement.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Невероятно, что, даже не обладая способностью использовать Люмис, хасимы додумались до гениальной идеи имплантировать драгоценные камни в свое снаряжение.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Ferys who channel Umbra can activate what they call their feral instinct; their fur turns silver.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ferys que canalisam Umbra conseguem ativar o que chamam de instinto selvagem, seus pelos ficam prateados.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Los Ferys que canalizan la Umbra pueden activar lo que llaman su instinto salvaje; su pelaje se vuelve plateado.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ウンブラを操るフェリスは、彼らが言うところの野性的な本能を活性化させることができる。彼らの毛皮は銀色になる。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "움브라를 사용하는 페리스는 그들이 야생 본능이라고 부르는 것을 활성화할 수 있습니다. 그들의 털은 은빛으로 변합니다.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "引导幽影的费里斯可以激活他们所谓的野性本能；他们的毛发会变成银色。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "引導幽影的費里斯可以激活他們所謂的野性本能；他們的毛髮會變成銀色。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ferys die Umbra kanaliseren, kunnen activeren wat ze hun wilde instinct noemen; hun vacht wordt zilverkleurig.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ferys, die Umbra kanalisieren, können das aktivieren, was sie ihren wilden Instinkt nennen; ihr Fell wird silbern.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "I Ferys che incanalano l'Umbra possono attivare quello che chiamano il loro istinto selvaggio; la loro pelliccia diventa argentata.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Les Férys qui canalisent l'Umbra peuvent activer ce qu'ils appellent leur instinct sauvage ; leur fourrure devient argentée.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ферисы, которые направляют Умбру, могут активировать то, что они называют своим звериным инстинктом; их мех становится серебристым.",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "If you find a pure Lumys jewel, please let me know; I've always wanted to see one.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Se encontrar uma joia Lumys pura, por favor me avise, sempre quis ver uma.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Si encuentras una joya Lumys pura, por favor avísame; siempre he querido ver una.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "もし純粋なルーミスの宝石を見つけたら、どうか教えてください。ずっと見てみたかったんです。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "순수한 루미스 보석을 발견하면 꼭 알려주세요. 항상 한번 보고 싶었어요.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "如果你找到纯净的卢弥斯宝石，请务必告诉我，我一直想见识一下。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "如果你找到純淨的盧彌斯寶石，請務必告訴我，我一直想見識一下。",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Als je een zuiver Lumys-juweel vindt, laat het me dan alsjeblieft weten; ik heb er altijd al een willen zien.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Wenn du ein reines Lumys-Juwel findest, sag mir bitte Bescheid; ich wollte schon immer eines sehen.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Se trovi una gemma di Lumys pura, per favore fammelo sapere; ho sempre voluto vederne una.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Si vous trouvez un joyau de Lumys pur, veuillez me le faire savoir ; j'ai toujours voulu en voir un.",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Если найдешь чистый самоцвет Люмиса, пожалуйста, дай мне знать, я всегда хотел на него посмотреть.",
+                "",
+                "",
+                ""
+            ]
+        ]
+    ]
+}

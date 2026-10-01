@@ -1,0 +1,98 @@
+{
+    "c2array": true,
+    "size": [
+        2,
+        3,
+        12
+    ],
+    "data": [
+        [
+            [
+                "Inglês",
+                "Português",
+                "Espanhol",
+                "Japonês",
+                "Coreano",
+                "Chinês Simplificado",
+                "Chinês Tradicional",
+                "Holandês",
+                "Alemão",
+                "Italiano",
+                "Francês",
+                "Russo"
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001",
+                "ITEM_BOOK001"
+            ],
+            [
+                "Observations on the Cult of the Shadow Genesis",
+                "Observações sobre o Culto da Gênese Sombria",
+                "Observaciones sobre el Culto del Génesis Oscuro",
+                "闇の起源の教団に関する考察",
+                "어둠의 기원 교단에 대한 관찰",
+                "关于黑暗创世教团的观察",
+                "關於黑暗創世教團的觀察",
+                "Waarnemingen over de Cultus van de Duistere Genesis",
+                "Beobachtungen zum Kult der Dunklen Genesis",
+                "Osservazioni sul Culto della Genesi Oscura",
+                "Observations sur le Culte de la Genèse Sombre",
+                "Наблюдения за Культом Темного Генезиса"
+            ],
+            [
+                "In my studies, no matter how much I try to maintain objectivity, certain truths send shivers down my spine, and the Cult of the Dark Genesis is one of them. This fanatical sect, composed mostly of humans, has a blood-chilling objective: to allow the Umbra to completely dominate Nigma.\n\nThey do not worship a creature, but rather the manifestation of a Pure Umbra Entity. The Umbra we know, however terrible it may be, is for them an imperfect shadow, diluted by the presence of Lumys. For the members of the cult, light is an impurity that prevents the Umbra from reaching its true potential.\n\nConsequently, their most vile act is the destruction of the Lumys cores. It's not a tactical attack, but a \"purification\" ritual, a return to a \"primordial void\" that, in their madness, they consider perfection. The implication? The annihilation of all life and existence as we know it. It's an ideology that defies creation itself, and the fear it instills in me is palpable.",
+                "Nos meus estudos, por mais que eu tente manter a objetividade, certas verdades me arrepiam, e o Culto da Gênese Sombria é uma delas. Essa seita fanática, composta majoritariamente por humanos, tem um objetivo que gela o sangue: permitir que a Umbra domine Nigma por completo.\n\nEles não cultuam uma criatura, mas sim a manifestação de uma Entidade Pura de Umbra. A Umbra que conhecemos, por mais terrível que seja, é para eles uma sombra imperfeita, diluída pela presença da Lumys. Para os membros do culto, a luz é uma impureza que impede a Umbra de alcançar seu verdadeiro potencial.\n\nConsequentemente, o ato mais vil para eles é a destruição dos núcleos de Lumys. Não é um ataque tático, mas um ritual de \"purificação\", um retorno a um \"vazio primordial\" que, em sua loucura, consideram a perfeição. A implicação? A aniquilação de toda a vida e existência como a conhecemos. É uma ideologia que desafia a própria criação, e o medo que me impõe é palpável.",
+                "En mis estudios, por mucho que intente mantener la objetividad, ciertas verdades me ponen los pelos de punta, y el Culto del Génesis Oscuro es una de ellas. Esta secta fanática, compuesta mayoritariamente por humanos, tiene un objetivo que hiela la sangre: permitir que la Umbra domine Nigma por completo.\n\nNo adoran a una criatura, sino a la manifestación de una Entidad Pura de Umbra. La Umbra que conocemos, por terrible que sea, es para ellos una sombra imperfecta, diluida por la presencia de la Lumys. Para los miembros del culto, la luz es una impureza que impide que la Umbra alcance su verdadero potencial.\n\nEn consecuencia, el acto más vil para ellos es la destrucción de los núcleos de Lumys. No es un ataque táctico, sino un ritual de \"purificación\", un regreso a un \"vacío primordial\" que, en su locura, consideran la perfección. ¿La implicación? La aniquilación de toda la vida y existencia tal como la conocemos. Es una ideología que desafía la propia creación, y el miedo que me impone es palpable.",
+                "私の研究において、どれだけ客観性を保とうとしても、ある種の真実には身震いがする。そして、「闇の起源の教団」もその一つだ。主に人間で構成されるこの狂信的な宗派は、血も凍るような目的を持っている。それは、ウンブラにニーグマを完全に支配させることだ。\n\n彼らが崇拝するのは、クリーチャーではなく、純粋なウンブラの存在の顕現である。私たちが知るウンブラは、いかに恐ろしいものであれ、彼らにとっては不完全な影であり、ルーミスの存在によって希釈されている。教団のメンバーにとって、光はウンブラが真の潜在能力を発揮するのを妨げる不純物なのだ。\n\n結果として、彼らにとって最も邪悪な行為はルーミス核の破壊である。これは戦術的な攻撃ではなく、「浄化」の儀式であり、彼らの狂気の中では完璧と見なされる「原始の虚無」への回帰なのだ。その意味するところは？私たちが知るあらゆる生命と存在の絶滅である。これは創造そのものに挑むイデオロギーであり、私に与える恐怖は明白だ。",
+                "제 연구에서 아무리 객관성을 유지하려 노력해도, 특정 진실들은 저를 소름 돋게 만듭니다. '어둠의 기원 교단'이 그중 하나죠. 주로 인간들로 구성된 이 광신적인 종파는 피를 얼어붙게 하는 목표를 가지고 있습니다. 바로 움브라가 니그마를 완전히 지배하도록 허용하는 것입니다.\n\n그들은 어떤 생명체를 숭배하는 것이 아니라, 순수한 움브라 존재의 발현을 숭배합니다. 우리가 아는 움브라는 아무리 끔찍할지라도, 그들에게는 불완전한 그림자이며 루미스의 존재에 의해 희석된 것입니다. 교단원들에게 빛은 움브라가 진정한 잠재력을 발휘하는 것을 방해하는 불순물입니다.\n\n결과적으로, 그들에게 가장 사악한 행위는 루미스 핵의 파괴입니다. 이것은 전술적인 공격이 아니라, 그들의 광기 속에서 완벽하다고 여기는 \"원초적인 공허\"로의 회귀, 즉 \"정화\" 의식입니다. 그 의미는? 우리가 아는 모든 생명과 존재의 전멸입니다. 이것은 창조 자체에 도전하는 이념이며, 저에게 드리우는 두려움은 명백합니다.",
+                "在我的研究中，无论我如何努力保持客观，某些真相都让我毛骨悚然，而“黑暗创世教团”就是其中之一。这个狂热的教派，主要由人类组成，有一个令人不寒而栗的目标：让幽影完全统治尼格玛。\n\n他们不崇拜某个生物，而是崇拜一个纯粹幽影实体的显现。我们所知的幽影，无论多么可怕，对他们来说都是一个不完美的阴影，被卢弥斯的存在所稀释。对于教团成员来说，光是一种杂质，阻碍幽影发挥其真正的潜力。\n\n因此，他们最邪恶的行为就是摧毁卢弥斯核心。这不是一次战术攻击，而是一种“净化”仪式，一种回归到他们疯狂中认为是完美的“原始虚空”的行为。这意味着什么？就是我们所知的一切生命和存在的湮灭。这是一种挑战创造本身的意识形态，它给我带来的恐惧是真实可感的。",
+                "在我的研究中，無論我如何努力保持客觀，某些真相都讓我毛骨悚然，而「黑暗創世教團」就是其中之一。這個狂熱的教派，主要由人類組成，有一個令人不寒而慄的目標：讓幽影完全統治尼格瑪。\n\n他們不崇拜某個生物，而是崇拜一個純粹幽影實體的顯現。我們所知的幽影，無論多麼可怕，對他們來說都是一個不完美的陰影，被盧彌斯的存在所稀釋。對於教團成員來說，光是一種雜質，阻礙幽影發揮其真正的潛力。\n\n因此，他們最邪惡的行為就是摧毀盧彌斯核心。這不是一次戰術攻擊，而是一種「淨化」儀式，一種回歸到他們瘋狂中認為是完美的「原始虛空」的行為。這意味著什麼？就是我們所知的一切生命和存在的湮滅。這是一種挑戰創造本身的意識形態，它給我帶來的恐懼是真實可感的。",
+                "In mijn studies, hoe zeer ik ook probeer objectiviteit te bewaren, bezorgen bepaalde waarheden me rillingen, en de Cultus van de Duistere Genesis is daar één van. Deze fanatieke sekte, voornamelijk bestaande uit mensen, heeft een bloedstollend doel: de Umbra Nigma volledig laten domineren.\n\nZe aanbidden geen schepsel, maar de manifestatie van een Pure Umbra Entiteit. De Umbra die wij kennen, hoe verschrikkelijk ook, is voor hen een onvolmaakte schaduw, verdund door de aanwezigheid van Lumys. Voor de leden van de cultus is licht een onzuiverheid die de Umbra ervan weerhoudt haar ware potentieel te bereiken.\n\nBijgevolg is hun meest verachtelijke daad de vernietiging van de Lumys-kernen. Het is geen tactische aanval, maar een \"zuiveringsritueel\", een terugkeer naar een \"oervacuüm\" dat zij, in hun waanzin, als perfectie beschouwen. De implicatie? De vernietiging van al het leven en bestaan zoals wij dat kennen. Het is een ideologie die de schepping zelf tart, en de angst die het me inboezemt is tastbaar.",
+                "In meinen Studien, so sehr ich auch versuche, Objektivität zu bewahren, lassen mich bestimmte Wahrheiten erschaudern, und der Kult der Dunklen Genesis ist eine davon. Diese fanatische Sekte, hauptsächlich bestehend aus Menschen, hat ein blutrünstiges Ziel: der Umbra zu ermöglichen, Nigma vollständig zu dominieren.\n\nSie verehren keine Kreatur, sondern die Manifestation einer Reinen Umbra-Entität. Die Umbra, die wir kennen, so schrecklich sie auch sein mag, ist für sie ein unvollkommener Schatten, verdünnt durch die Anwesenheit der Lumys. Für die Mitglieder des Kultes ist Licht eine Unreinheit, die die Umbra daran hindert, ihr wahres Potenzial zu entfalten.\n\nFolglich ist ihre abscheulichste Tat die Zerstörung der Lumys-Kerne. Es ist kein taktischer Angriff, sondern ein „Reinigungsritual“, eine Rückkehr zu einer „urzeitlichen Leere“, die sie in ihrem Wahnsinn als Perfektion betrachten. Die Implikation? Die Vernichtung allen Lebens und der Existenz, wie wir sie kennen. Es ist eine Ideologie, die die Schöpfung selbst herausfordert, und die Angst, die sie mir einflößt, ist spürbar.",
+                "Nei miei studi, per quanto cerchi di mantenere l'obiettività, certe verità mi fanno rabbrividire, e il Culto della Genesi Oscura è una di queste. Questa setta fanatica, composta prevalentemente da umani, ha un obiettivo che fa gelare il sangue: permettere all'Umbra di dominare Nigma completamente.\n\nNon adorano una creatura, bensì la manifestazione di un'Entità Pura dell'Umbra. L'Umbra che conosciamo, per quanto terribile possa essere, è per loro un'ombra imperfetta, diluita dalla presenza della Lumys. Per i membri del culto, la luce è un'impurità che impedisce all'Umbra di raggiungere il suo vero potenziale.\n\nDi conseguenza, l'atto più vile per loro è la distruzione dei nuclei di Lumys. Non è un attacco tattico, ma un rituale di \"purificazione\", un ritorno a un \"vuoto primordiale\" che, nella loro follia, considerano la perfezione. L'implicazione? L'annientamento di tutta la vita e dell'esistenza come la conosciamo. È un'ideologia che sfida la creazione stessa, e la paura che mi impone è palpabile.",
+                "Dans mes études, j'ai beau essayer de rester objectif, certaines vérités me glacent le sang, et le Culte de la Genèse Sombre en fait partie. Cette secte fanatique, majoritairement composée d'humains, a un objectif qui fait froid dans le dos : permettre à l'Umbra de dominer Nigma entièrement.\n\nIls ne vénèrent pas une créature, mais la manifestation d'une Entité Pure d'Umbra. L'Umbra que nous connaissons, aussi terrible soit-elle, est pour eux une ombre imparfaite, diluée par la présence de la Lumys. Pour les membres du culte, la lumière est une impureté qui empêche l'Umbra d'atteindre son véritable potentiel.\n\nPar conséquent, l'acte le plus vil pour eux est la destruction des noyaux de Lumys. Ce n'est pas une attaque tactique, mais un rituel de \"purification\", un retour à un \"vide primordial\" que, dans leur folie, ils considèrent comme la perfection. L'implication ? L'annihilation de toute vie et de toute existence telles que nous les connaissons. C'est une idéologie qui défie la création elle-même, et la peur qu'elle m'inspire est palpable.",
+                "В моих исследованиях, как бы я ни старался сохранять объективность, некоторые истины вызывают у меня мурашки по коже, и Культ Темного Генезиса — одна из них. Эта фанатичная секта, состоящая в основном из людей, имеет леденящую кровь цель: позволить Умбре полностью доминировать над Нигмой.\n\nОни поклоняются не существу, а проявлению Чистой Сущности Умбры. Умбра, которую мы знаем, какой бы ужасной она ни была, для них — несовершенная тень, разбавленная присутствием Люмиса. Для членов культа свет — это примесь, которая мешает Умбре достичь своего истинного потенциала.\n\nСледовательно, их самое гнусное деяние — это уничтожение ядер Люмиса. Это не тактическая атака, а ритуал «очищения», возвращение к «изначальной пустоте», которую они в своем безумии считают совершенством. Следствие? Уничтожение всей жизни и существования, какими мы их знаем. Это идеология, которая бросает вызов самому творению, и страх, который она вызывает у меня, осязаем."
+            ]
+        ]
+    ]
+}

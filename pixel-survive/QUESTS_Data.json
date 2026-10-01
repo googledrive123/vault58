@@ -1,0 +1,115 @@
+{
+    "c2array": true,
+    "size": [
+        3,
+        11,
+        1
+    ],
+    "data": [
+        [
+            [
+                "QUEST_0001"
+            ],
+            [
+                "Coleta"
+            ],
+            [
+                "PAN THE BAKER WOMAN"
+            ],
+            [
+                "O Segredo da Massa Folhada"
+            ],
+            [
+                "Olá, guardiões! O dia mal amanheceu e o cheiro de pão quentinho já está saindo da meu forno. O problema é que recebi uma encomenda enorme de brioches reais para o festival de Alacutchi e meu estoque esvaziou! Para a massa ficar leve e dourada , preciso de ingredientes frescos. Vocês poderiam me trazer 10 ovos direto do ninho? Prometo compensar o esforço com algumas moedas e, claro, o melhor aroma da região! ass:Pan, a Padeira"
+            ],
+            [
+                "ITEM_I004/10"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "QUEST_0002"
+            ],
+            [
+                "Hunt"
+            ],
+            [
+                "SAZH THE MEATMASTER"
+            ],
+            [
+                "Limpeza de gosma"
+            ],
+            [
+                "Olá, guardiões, resolvi fazer esse contrato pois percebi um aumento na quantidade de slimes rondando o vilareijo, se continuar nesse ritmo é possível que os animais ao redor comecem a se afastar da região, se isso acontecer será muito difícil conseguir recursos para abastecer o vilareijo, se você elimiar 15 slimes já será o suficiente. ass: Sazh o carnomestre."
+            ],
+            [
+                "001/15"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "QUEST_0003"
+            ],
+            [
+                "Order"
+            ],
+            [
+                "FLINT THE FARMER"
+            ],
+            [
+                "Expansão da fazenda"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}
